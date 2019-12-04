@@ -13,26 +13,25 @@ class Command(BaseCommand):
     def handle(self, *args, **kwargs):
         path = kwargs['path']
         
-        with open(path, mode='wb') as csvfile:
+        with open(path, mode='w') as csvfile:
             writer = csv.writer(csvfile)
             squirrels = Squirrel.objects.all()
-            writer.writerow['X','Y','Unique Squirrel ID','Hectare',
-                    'Shift','Date','Hectare Squirrel Number','Age','Primary Fur Color','Highlight Fur Color','Combination of Primary and Highlight Color','Color Notes','Location','Specific Location','Running','Chasing','Climbing','Eating','Foraging','Other Activities','Kuks','Quaas','Moans','Tail flags','Tail twitches','Approaches','Indifferent','Runs from']
-
-                        
+            writer.writerow(['X','Y','Unique Squirrel ID','Hectare', 'Shift','Date','Hectare Squirrel Number','Age','Primary Fur Color','Highlight Fur Color','Combination of Primary and Highlight Color','Color Notes','Location','Specific Location','Running','Chasing','Climbing','Eating','Foraging','Other Activities','Kuks','Quaas','Moans','Tail flags','Tail twitches','Approaches','Indifferent','Runs from'])
+    
 
             for squirrel in squirrels:
                     writer.writerow([
-                    squirrel.Latitude,Longitude,
-                    squirrel.Unique_Squirrel_ID,
+                    squirrel.Latitude,
+                    squirrel.Longitude,
+                    squirrel.Unique_squirrel_ID,
                     squirrel.Hectare,
                     squirrel.Shift,
                     squirrel.Date ,
-                    squirrel.Hectare_Squirrel_Number ,
+                    squirrel.Hectare_squirrel_num ,
                     squirrel.Age ,
-                    squirrel.Primary_Fur_Color ,
+                    squirrel.Primary_fur_color ,
                     squirrel.Location ,
-                    squirrel.Specific_Location ,
+                    squirrel.Specific_location ,
                     squirrel.Running ,
                     squirrel.Chasing ,
                     squirrel.Climbing ,
@@ -45,7 +44,7 @@ class Command(BaseCommand):
                     squirrel.Tail_Flags ,
                     squirrel.Tail_Twitches ,
                     squirrel.Approaches ,
-                    squirrel.squirrel.Indifferent ,
+                    squirrel.Indifferent ,
                     squirrel.Runs_From ,
                 ])
         csvfile.close() 
