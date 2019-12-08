@@ -1,17 +1,16 @@
 
 # Create your views here.
 from django.http import HttpResponse
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import Squirrel
+from .forms import SightingForm
+
 def squirrels(request):
     squirrels = Squirrel.objects.all()
     context = {
         'squirrels':squirrels,
             }
     return render(request,'sightings/all.html',context)
-def squirrels_details(request,squirrel_id):
-    squirrel = Squirrel.objects.get(id=squirrel_id)
-    return HttpResponse(squirrel.Unique_squirrel_ID)
 
 
 def squirrel_stats(request):
@@ -31,7 +30,7 @@ def squirrel_stats(request):
 
 
 def edit_sighting(request, unique_id):
-    sighting = Squirrel.objects.get(Squirrel_unique_ID=unique_id)
+    sighting = Squirrel.objects.get(Unique_squirrel_ID=unique_id)
     if request.method == 'POST':
         form = SightingForm(request.POST, instance=sighting)
         if form.is_valid():
@@ -63,7 +62,7 @@ def add_sighting(request):
     return render(request, 'sightings/add.html', context)
 
 
-def all_sightings(request):
+def all_squirrel(request):
     if request.method == "GET":
 
         sightings = Squirrel.objects.all()
@@ -71,9 +70,6 @@ def all_sightings(request):
                 'sightings': sightings,
         }
         return render(request,'sightings/all.html', context)
-
-
-
 
 
 
