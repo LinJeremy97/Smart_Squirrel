@@ -11,10 +11,7 @@ def squirrels(request):
         'squirrels':squirrels,
             }
     return render(request,'sightings/all.html',context)
-<<<<<<< HEAD
-=======
 
->>>>>>> 37a402db4f51bc7a598d29dae7310b1777611295
 
 def squirrel_stats(request):
     sightings_stats1=Squirrel.objects.all().count()
