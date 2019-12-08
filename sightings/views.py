@@ -9,10 +9,6 @@ def squirrels(request):
         'squirrels':squirrels,
             }
     return render(request,'sightings/all.html',context)
-def squirrels_details(request,squirrel_id):
-    squirrel = Squirrel.objects.get(id=squirrel_id)
-    return HttpResponse(squirrel.Unique_squirrel_ID)
-
 
 def squirrel_stats(request):
     sightings_stats1=Squirrel.objects.all().count()
@@ -31,7 +27,7 @@ def squirrel_stats(request):
 
 
 def edit_sighting(request, unique_id):
-    sighting = Squirrel.objects.get(Squirrel_unique_ID=unique_id)
+    sighting = Squirrel.objects.get(Unique_squirrel_ID=unique_id)
     if request.method == 'POST':
         form = SightingForm(request.POST, instance=sighting)
         if form.is_valid():
