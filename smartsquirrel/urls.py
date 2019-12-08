@@ -17,7 +17,7 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
-    path('map/', include('squirrel_app.urls')),
+    path('map/', include('map.urls')),
     path('admin/', admin.site.urls),
     path('sightings/',include('sightings.urls')),
 ]
