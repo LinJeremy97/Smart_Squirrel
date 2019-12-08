@@ -16,6 +16,7 @@ class Squirrel(models.Model):
     Unique_squirrel_ID = models.CharField(
             help_text=_("Unique squirrel id"),
             max_length=50,
+            primary_key=True,
             )
     Hectare = models.CharField(
             help_text=_("Hectare of squirrel,like 32D"),
