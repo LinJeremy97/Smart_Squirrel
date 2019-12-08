@@ -2,7 +2,7 @@
 We are Smart Squirrel
 
 
-Group Name: Smart_Squirrel
+Group Name: Smart_Squirrel \n
 Group Number: project62, section2
 UNIs: [jl5534, yz3682]
 Link: https://pelagic-fin-213513.appspot.com/
