@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'sightings',
-    'squirrel_app',
+    'squirrel_app.apps.SquirrelAppConfig',
 ]
 
 MIDDLEWARE = [
