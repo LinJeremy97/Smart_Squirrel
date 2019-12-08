@@ -28,3 +28,52 @@ def squirrel_stats(request):
             'sightings_stats5':sightings_stats5,
             }
     return render(request, 'sightings/stats.html', context)
+
+
+def edit_sighting(request, unique_id):
+    sighting = Squirrel.objects.get(Squirrel_unique_ID=unique_id)
+    if request.method == 'POST':
+        form = SightingForm(request.POST, instance=sighting)
+        if form.is_valid():
+            form.save()
+            return redirect(f'/sightings/')
+    else:
+        form = SightingForm(instance=sighting)
+
+    context = {
+            'form': form,
+    }
+
+    return render(request, 'sightings/edit.html', context)
+
+
+def add_sighting(request):
+    if request.method == 'POST':
+        form = SightingForm(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect(f'/sightings')
+    else:
+        form = SightingForm()
+
+    context = {
+            'form': form,
+    }
+
+    return render(request, 'sightings/add.html', context)
+
+
+def all_sightings(request):
+    if request.method == "GET":
+
+        sightings = Squirrel.objects.all()
+        context = {
+                'sightings': sightings,
+        }
+        return render(request,'sightings/all.html', context)
+
+
+
+
+
+
