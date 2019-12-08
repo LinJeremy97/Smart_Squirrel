@@ -1,6 +1,5 @@
 from django.db import models 
 from django.utils.translation import gettext as _
-import numpy as np
 
 class Squirrel(models.Model): 
     Latitude= models.DecimalField( 
@@ -51,7 +50,7 @@ class Squirrel(models.Model):
             help_text=_("Age of squirrel"), 
             choices=AGE_CHOICES, 
             max_length=15, 
-            default=np.nan,
+            default=False,
             )
     Gray = 'Gray' 
     Black = 'Black' 
@@ -65,7 +64,7 @@ class Squirrel(models.Model):
             help_text=_("Primary fur color of squirrel"),
             choices=PRIMARYFURCOLOR_CHOICES, 
             max_length=20,
-            default=np.nan,
+            default=False,
             ) 
     GroundPlane = 'Ground Plane' 
     AboveGround = 'Above Ground' 
@@ -77,13 +76,13 @@ class Squirrel(models.Model):
             help_text=_("location of squirrel"), 
             choices=LOCATION_CHOICES, 
             max_length=20,
-            default=np.nan,
+            default=False,
             )  
              
     Specific_location = models.CharField( 
             help_text=_("Specific location of squirrel"), 
             max_length=100, 
-            default=np.nan
+            default=False,
             )
     TRUE='TRUE'
     FALSE='FALSE'

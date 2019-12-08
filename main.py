@@ -1,3 +1,3 @@
-from project.wsgi import application
+from smartsquirrel.wsgi import application
 
 app = application
