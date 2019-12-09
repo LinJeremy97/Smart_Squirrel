@@ -1,1 +1,1002 @@
 X,Y,Unique Squirrel ID,Hectare,Shift,Date,Hectare Squirrel Number,Age,Primary Fur Color,Highlight Fur Color,Combination of Primary and Highlight Color,Color Notes,Location,Specific Location,Running,Chasing,Climbing,Eating,Foraging,Other Activities,Kuks,Quaas,Moans,Tail flags,Tail twitches,Approaches,Indifferent,Runs from
+40.79408238840860000000,-73.95613449378610000000,37F-PM-1014-03,37F,PM,2018-10-14,3,Adult,Gray,Ground Plane,hh,TRUE,TRUE,TRUE,TRUE,TRUE,hh,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+40.79485094080390000000,-73.95704377176910000000,37E-PM-1006-03,37E,PM,2018-10-06,3,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.76671780725580000000,-73.97683117510040000000,2E-AM-1010-03,02E,AM,2018-10-10,3,Adult,Cinnamon,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.76970326067550000000,-73.97572498341410000000,5D-PM-1018-05,05D,PM,2018-10-18,5,Juvenile,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.79753337016300000000,-73.95931266957140000000,39B-AM-1018-01,39B,AM,2018-10-18,1,,,Above Ground,,false,false,false,false,false,unknown,true,false,false,false,false,false,false,false
+40.79025610009370000000,-73.95657003861620000000,33H-AM-1019-02,33H,AM,2018-10-19,2,Juvenile,Gray,Ground Plane,,false,false,false,false,false,wrestling with mother,false,false,false,false,false,false,false,false
+40.76930451335780000000,-73.97197355824760000000,6G-PM-1020-02,06G,PM,2018-10-20,2,Adult,Gray,Ground Plane,,true,true,false,false,false,,false,false,false,false,false,false,true,false
+40.79428830455660000000,-73.96026099208140000000,35C-PM-1013-03,35C,PM,2018-10-13,3,,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77297523914350000000,-73.97707185867540000000,7B-AM-1008-09,07B,AM,2018-10-08,9,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79031288890290000000,-73.95964139039480000000,32E-PM-1017-14,32E,PM,2018-10-17,14,Adult,Gray,,,false,false,false,true,true,,false,false,false,false,false,false,false,true
+40.77621268548940000000,-73.97026764726130000000,13E-AM-1017-05,13E,AM,2018-10-17,5,Adult,Gray,Above Ground,on tree stump,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77259088474990000000,-73.96836135162250000000,11H-AM-1010-03,11H,AM,2018-10-10,3,Adult,Cinnamon,,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.79318117010820000000,-73.95412017897950000000,36H-AM-1010-02,36H,AM,2018-10-10,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79173678202550000000,-73.95826943122890000000,33F-AM-1008-02,33F,AM,2018-10-08,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78297239197440000000,-73.96742859552930000000,21C-PM-1006-01,21C,PM,2018-10-06,1,Adult,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,true,true,false,false,false
+40.77428795990260000000,-73.97225001968440000000,11D-AM-1010-03,11D,AM,2018-10-10,3,Adult,Gray,Above Ground,,false,false,true,false,false,grooming,false,false,false,false,false,false,true,false
+40.78235076781830000000,-73.96950635353330000000,20B-PM-1013-05,20B,PM,2018-10-13,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79196697399620000000,-73.95321705048650000000,36I-PM-1007-01,36I,PM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77027959049620000000,-73.97686036306740000000,5C-PM-1010-09,05C,PM,2018-10-10,9,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.76981248215070000000,-73.97061058969670000000,7H-AM-1006-05,07H,AM,2018-10-06,5,Adult,Gray,Above Ground,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.77875261303210000000,-73.97037817261720000000,16C-PM-1018-03,16C,PM,2018-10-18,3,Adult,Gray,Above Ground,,true,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77650320049920000000,-73.97039252104710000000,14E-AM-1008-23,14E,AM,2018-10-08,23,Adult,Gray,Ground Plane,,false,false,false,false,true,walking,false,false,false,false,false,false,true,false
+40.79241732639040000000,-73.96381794397470000000,32A-PM-1013-03,32A,PM,2018-10-13,3,Juvenile,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.79138124905570000000,-73.95840709747340000000,33F-AM-1008-01,33F,AM,2018-10-08,1,Adult,Gray,Ground Plane,,false,false,false,false,false,moving slowly,false,false,false,false,false,false,true,false
+40.77848597001710000000,-73.96711306801140000000,17F-AM-1007-07,17F,AM,2018-10-07,7,Adult,Gray,Above Ground,,true,false,false,false,false,,false,false,false,true,false,false,true,false
+40.77649296944570000000,-73.96498660160380000000,16I-AM-1008-01,16I,AM,2018-10-08,1,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77349914209410000000,-73.96706285581610000000,12I-AM-1013-01,12I,AM,2018-10-13,1,Adult,Cinnamon,Ground Plane,on tree roots,false,false,false,false,false,sitting,false,false,false,false,true,false,false,true
+40.79085243706260000000,-73.95873659311100000000,32F-PM-1008-07,32F,PM,2018-10-08,7,Adult,Gray,Ground Plane,,true,true,false,false,true,,false,false,false,false,false,false,true,false
+40.78673527912320000000,-73.96717867152560000000,25A-AM-1013-04,25A,AM,2018-10-13,4,,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77695361024880000000,-73.96929432916110000000,15E-AM-1013-01,15E,AM,2018-10-13,1,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79524459998360000000,-73.95400541005390000000,39G-PM-1013-06,39G,PM,2018-10-13,6,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.78686594903970000000,-73.95765301572550000000,29I-PM-1007-01,29I,PM,2018-10-07,1,,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.77118468941660000000,-73.97380332574730000000,7E-AM-1006-02,07E,AM,2018-10-06,2,Adult,Gray,Ground Plane,under a tree,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.77989656212030000000,-73.97044026810170000000,17C-PM-1013-05,17C,PM,2018-10-13,5,Adult,Gray,Ground Plane,,false,false,false,true,false,eating (ate upside down on a tree — #jealous),false,false,false,false,false,false,true,false
+40.77538973319180000000,-73.97569760767070000000,10A-PM-1014-01,10A,PM,2018-10-14,1,Adult,Gray,Ground Plane,in b/w trees,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.78903818094410000000,-73.96624389966810000000,28A-PM-1007-05,28A,PM,2018-10-07,5,Adult,Cinnamon,Ground Plane,,true,false,false,false,true,,false,false,false,false,true,false,false,true
+40.78208185169570000000,-73.96431539204280000000,22F-PM-1014-05,22F,PM,2018-10-14,5,Adult,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77579573804630000000,-73.97420734529130000000,12B-AM-1007-01,12B,AM,2018-10-07,1,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,true,false,false,true,false
+40.78139110361790000000,-73.97161470615530000000,18A-PM-1018-01,18A,PM,2018-10-18,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79287117600610000000,-73.95354106570770000000,36H-PM-1008-02,36H,PM,2018-10-08,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78917746379880000000,-73.96391592984460000000,29C-AM-1007-06,29C,AM,2018-10-07,6,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.79593377950270000000,-73.95795643386270000000,38C-PM-1014-09,38C,PM,2018-10-14,9,Adult,Black,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,true,false,false
+40.78925084286220000000,-73.95746480975430000000,31H-PM-1008-02,31H,PM,2018-10-08,2,Juvenile,Gray,Above Ground,,true,false,true,false,false,,false,false,false,false,true,false,true,false
+40.77059995882220000000,-73.97025267533100000000,8H-AM-1017-06,08H,AM,2018-10-17,6,Adult,Gray,Above Ground,,false,true,false,true,false,,false,false,false,false,false,false,true,false
+40.79186134984070000000,-73.95796459404140000000,34F-AM-1007-01,34F,AM,2018-10-07,1,Adult,Gray,Above Ground,,true,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77495052529810000000,-73.96732534173050000000,13H-PM-1010-02,13H,PM,2018-10-10,2,Adult,Gray,Above Ground,tree,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78203098254480000000,-73.96400328265290000000,22F-PM-1014-06,22F,PM,2018-10-14,6,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,true,false,true,false
+40.79058473323690000000,-73.95959331954090000000,32E-AM-1007-13,32E,AM,2018-10-07,13,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79377969942100000000,-73.96022221167080000000,35C-AM-1007-05,35C,AM,2018-10-07,5,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77924987364700000000,-73.96806350709490000000,17E-AM-1017-05,17E,AM,2018-10-17,5,Adult,Black,Above Ground,Branch,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76869053392120000000,-73.98016664354010000000,2B-PM-1013-01,02B,PM,2018-10-13,1,Adult,Gray,Ground Plane,,true,false,false,false,false,running (with nut),false,false,false,false,false,false,false,false
+40.78134773525070000000,-73.96756343268770000000,19D-AM-1007-01,19D,AM,2018-10-07,1,Juvenile,Gray,Ground Plane,,false,false,true,true,false,,false,false,false,false,false,false,false,false
+40.79828863486960000000,-73.95849706432130000000,40B-AM-1019-03,40B,AM,2018-10-19,3,Juvenile,Gray,Ground Plane,,true,true,false,false,false,,false,false,false,false,true,true,false,false
+40.76819543669110000000,-73.97602982411780000000,3E-PM-1008-07,03E,PM,2018-10-08,7,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79723991338160000000,-73.95688021498180000000,39C-PM-1006-01,39C,PM,2018-10-06,1,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76905264411090000000,-73.97246424363940000000,6G-AM-1008-02,06G,AM,2018-10-08,2,Juvenile,Gray,Ground Plane,bush,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77604327200170000000,-73.96901758385340000000,14F-AM-1007-05,14F,AM,2018-10-07,5,Juvenile,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.76902809859560000000,-73.97040828213560000000,6I-PM-1013-06,06I,PM,2018-10-13,6,Adult,Gray,Ground Plane,,false,false,false,false,false,playing with #5,false,false,false,false,true,false,false,false
+40.77688116400210000000,-73.96849107122720000000,15F-PM-1010-05,15F,PM,2018-10-10,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77352326488720000000,-73.97686748129420000000,8B-PM-1012-02,08B,PM,2018-10-12,2,Adult,Gray,Ground Plane,hiding in bushes,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.76988852413490000000,-73.97970848666130000000,3A-PM-1017-06,03A,PM,2018-10-17,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.79231304027930000000,-73.95281926797700000000,36I-AM-1017-02,36I,AM,2018-10-17,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76926026287450000000,-73.97456300384920000000,5E-AM-1008-06,05E,AM,2018-10-08,6,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,true,false,false
+40.79033657886940000000,-73.95950023395080000000,32E-PM-1017-13,32E,PM,2018-10-17,13,Adult,Gray,,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.76894866579630000000,-73.97418249922940000000,5F-PM-1007-03,05F,PM,2018-10-07,3,Adult,Gray,Ground Plane,,false,false,false,false,false,hiding nut,false,false,false,false,true,false,true,false
+40.77613935517810000000,-73.97492439011890000000,11B-PM-1014-05,11B,PM,2018-10-14,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77801434437790000000,-73.96838132555900000000,16E-PM-1018-06,16E,PM,2018-10-18,6,Adult,Cinnamon,Ground Plane,On a rock,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77558981266740000000,-73.96942403275090000000,13F-AM-1007-02,13F,AM,2018-10-07,2,Adult,Cinnamon,,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.78283647352360000000,-73.96890009789550000000,20B-PM-1013-10,20B,PM,2018-10-13,10,Adult,Gray,Ground Plane,,false,false,false,false,true,drank from a pond of rain water,false,false,false,false,false,false,true,false
+40.76967536559860000000,-73.98045288675470000000,3A-PM-1017-05,03A,PM,2018-10-17,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.78738625100010000000,-73.95762459924550000000,29H-PM-1006-01,29H,PM,2018-10-06,1,Adult,Gray,Above Ground,,false,false,true,false,false,sitting,false,false,false,false,false,false,true,false
+40.78450981315670000000,-73.96660079356380000000,23C-PM-1014-03,23C,PM,2018-10-14,3,Adult,Gray,Above Ground,,false,true,false,false,false,chasing (#4 across trees),false,false,false,false,false,false,false,false
+40.79226455219050000000,-73.96148483609000000000,33C-PM-1007-03,33C,PM,2018-10-07,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.79476392414910000000,-73.95466541841460000000,38G-PM-1020-09,38G,PM,2018-10-20,9,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,true,false,false,true,false
+40.77688047024730000000,-73.96671140272140000000,16G-PM-1017-01,16G,PM,2018-10-17,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79218224576130000000,-73.95300355646430000000,36I-PM-1007-07,36I,PM,2018-10-07,7,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79512786223990000000,-73.96156965776730000000,35A-AM-1014-03,35A,AM,2018-10-14,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78838401047490000000,-73.96447483600100000000,28C-PM-1006-01,28C,PM,2018-10-06,1,Adult,Gray,Ground Plane,,false,false,false,false,false,gathering acorns,false,false,false,true,false,false,false,true
+40.79148296610510000000,-73.96107055928680000000,32D-AM-1013-06,32D,AM,2018-10-13,6,Adult,Cinnamon,Ground Plane,,true,false,false,true,true,"eating (a mushroom),circles around us,really fat,scratching himself,grooming activity",false,false,false,false,true,true,false,false
+40.78453012881630000000,-73.96884544835850000000,22A-AM-1008-05,22A,AM,2018-10-08,5,Adult,Gray,Above Ground,trash can,false,false,false,true,false,,false,false,false,true,false,false,false,true
+40.79809594710340000000,-73.95782371683590000000,40B-PM-1014-06,40B,PM,2018-10-14,6,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.78097194453090000000,-73.96882712024010000000,19C-PM-1018-01,19C,PM,2018-10-18,1,Adult,Gray,Ground Plane,,true,true,false,true,false,,false,false,false,false,true,false,true,false
+40.79445850823670000000,-73.96170887499280000000,35A-PM-1013-06,35A,PM,2018-10-13,6,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77665305792930000000,-73.97018248258720000000,14E-AM-1008-09,14E,AM,2018-10-08,9,Adult,Gray,Ground Plane,,true,true,false,false,false,,true,false,false,false,false,false,false,true
+40.77660435129740000000,-73.96764104974810000000,15G-PM-1019-05,15G,PM,2018-10-19,5,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77235720302360000000,-73.97087260507210000000,10F-AM-1007-02,10F,AM,2018-10-07,2,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79821622237640000000,-73.95414534658170000000,42E-PM-1012-06,42E,PM,2018-10-12,6,Adult,Cinnamon,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,true
+40.78429274053270000000,-73.96836082959760000000,22B-AM-1013-04,22B,AM,2018-10-13,4,Adult,Cinnamon,Ground Plane,Under bench,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77733866652800000000,-73.96805205798900000000,15F-PM-1010-06,15F,PM,2018-10-10,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77158778632740000000,-73.97871808707360000000,5A-AM-1006-05,05A,AM,2018-10-06,5,Adult,Gray,Ground Plane,near 65th St arch,false,false,false,false,true,,false,false,false,true,false,false,false,true
+40.78956540685460000000,-73.95659058682760000000,32H-PM-1006-01,32H,PM,2018-10-06,1,,Gray,Above Ground,in the European Beech,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79924616748020000000,-73.95657597336110000000,42C-AM-1007-02,42C,AM,2018-10-07,2,,,,,false,false,false,false,false,,false,true,false,false,false,false,false,false
+40.79873846562560000000,-73.95515394983060000000,41D-AM-1014-01,41D,AM,2018-10-14,1,Adult,Gray,Ground Plane,,false,false,false,false,true,digging,false,false,false,false,false,false,true,false
+40.78135379594350000000,-73.96419718139670000000,21G-PM-1007-01,21G,PM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,true,false,false,true,false
+40.77685537030820000000,-73.96928839709280000000,14E-AM-1008-02,14E,AM,2018-10-08,2,Adult,Gray,Ground Plane,,true,false,false,false,true,walking,false,false,false,false,false,false,false,true
+40.76995870190580000000,-73.97085496707880000000,7H-PM-1006-04,07H,PM,2018-10-06,4,Adult,Gray,Above Ground,on tree knob,false,false,false,false,false,sitting,false,false,false,false,false,false,true,false
+40.78251119507640000000,-73.96397440056470000000,22F-AM-1007-01,22F,AM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,true,false,true,,false,false,false,false,false,false,true,false
+40.77121454888280000000,-73.97302779114220000000,7F-AM-1008-16,07F,AM,2018-10-08,16,Juvenile,Gray,Above Ground,tree,false,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77246916057180000000,-73.97105414057080000000,10F-PM-1019-05,10F,PM,2018-10-19,5,Adult,Black,Above Ground,"Behind fence, tree",false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77472135853870000000,-73.97615925324820000000,10A-AM-1006-04,10A,AM,2018-10-06,4,Juvenile,Gray,Above Ground,tree near large rock on Bridle Path,false,false,false,false,false,walking on branch,false,false,false,false,true,false,false,false
+40.79506897231350000000,-73.95440076586850000000,38F-PM-1013-05,38F,PM,2018-10-13,5,Juvenile,Gray,Ground Plane,,false,false,false,false,true,"being chased,was pushed by other squirrel",true,true,false,false,false,false,false,false
+40.79936813496800000000,-73.95759861613640000000,41B-PM-1014-01,41B,PM,2018-10-14,1,Adult,Gray,Above Ground,Climbing tree,false,false,true,false,false,climbing (tree),false,false,false,false,false,false,false,true
+40.79554189908550000000,-73.96077013704430000000,36A-PM-1013-07,36A,PM,2018-10-13,7,,Gray,Ground Plane,"""FIELD""",false,true,false,false,false,chasing #8,false,false,false,false,false,false,false,true
+40.77058461851210000000,-73.97640365229840000000,5C-AM-1006-05,05C,AM,2018-10-06,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79081932849810000000,-73.95892495552350000000,32E-PM-1017-03,32E,PM,2018-10-17,3,Adult,Gray,Above Ground,bottom of tree,false,false,false,true,false,still,false,false,false,false,false,false,true,false
+40.79176854044820000000,-73.96346234187610000000,31A-PM-1017-04,31A,PM,2018-10-17,4,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.79784491433130000000,-73.95211101548720000000,42G-AM-1018-03,42G,AM,2018-10-18,3,Adult,Gray,Ground Plane,,true,false,false,false,false,stop to look at me—then ran,false,false,false,false,false,false,false,true
+40.79500136202070000000,-73.95748090282480000000,37D-PM-1014-04,37D,PM,2018-10-14,4,Adult,Gray,Ground Plane,,false,true,false,false,true,chasing (a chipmunk),false,false,false,false,false,false,false,true
+40.78541193425380000000,-73.96709759270700000000,24B-AM-1013-01,24B,AM,2018-10-13,1,,Gray,Above Ground,,true,false,false,true,false,took nut to bury,false,false,false,false,true,false,false,true
+40.77019415502730000000,-73.97113187902790000000,7G-AM-1010-02,07G,AM,2018-10-10,2,Adult,Gray,Above Ground,,true,false,false,false,false,,false,false,false,false,true,false,false,true
+40.77054093157030000000,-73.97632433837710000000,5C-PM-1010-13,05C,PM,2018-10-10,13,Adult,Gray,Above Ground,way up a tree!,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77551819415590000000,-73.96517544644390000000,15I-AM-1008-01,15I,AM,2018-10-08,1,Adult,Gray,Above Ground,tree,false,false,true,true,false,,false,false,false,false,false,false,true,false
+40.78157399593570000000,-73.97001006176020000000,19B-PM-1018-01,19B,PM,2018-10-18,1,Adult,Gray,Above Ground,,true,false,false,false,false,flying,false,false,false,false,false,false,false,false
+40.77623854706300000000,-73.97190561821400000000,13D-PM-1018-10,13D,PM,2018-10-18,10,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.79228961769360000000,-73.95300409235550000000,36I-PM-1007-10,36I,PM,2018-10-07,10,Juvenile,Gray,Ground Plane,,false,false,false,true,false,stole (found?) an entire sandwich,false,false,false,false,false,false,true,false
+40.79884873002160000000,-73.95720937605290000000,41B-AM-1010-06,41B,AM,2018-10-10,6,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79395810693820000000,-73.96077463379790000000,35B-AM-1010-01,35B,AM,2018-10-10,1,Adult,Gray,Ground Plane,lawn,false,false,false,false,false,walking w/ something in mouth,false,false,false,false,false,false,true,false
+40.79739233965120000000,-73.95663460464530000000,40D-PM-1013-01,40D,PM,2018-10-13,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.79638267537800000000,-73.95920388876730000000,38B-PM-1018-02,38B,PM,2018-10-18,2,Adult,Gray,Ground Plane,,false,false,false,false,true,burying nut,false,false,false,false,false,false,false,false
+40.79508133459020000000,-73.95111187111080000000,40I-AM-1018-01,40I,AM,2018-10-18,1,Adult,Cinnamon,Ground Plane,,true,false,false,false,true,begging,false,false,false,false,false,false,false,false
+40.77295375730350000000,-73.97699397963820000000,7B-AM-1008-10,07B,AM,2018-10-08,10,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77633103925910000000,-73.97125278095160000000,13D-AM-1014-08,13D,AM,2018-10-14,8,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77726246411120000000,-73.96711470900870000000,16G-AM-1010-03,16G,AM,2018-10-10,3,Adult,Gray,Ground Plane,,false,false,false,false,true,was hanging out w/ #2 until i showed up,true,false,false,false,false,false,false,true
+40.79825979475150000000,-73.95886602502320000000,40A-AM-1010-03,40A,AM,2018-10-10,3,Adult,Gray,Ground Plane,bottom of great hill,false,false,false,true,true,,false,false,false,true,false,false,true,true
+40.77618417880250000000,-73.96516015417950000000,15I-PM-1012-07,15I,PM,2018-10-12,7,Adult,Cinnamon,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,false
+40.76937117999460000000,-73.97921554736890000000,3B-PM-1007-11,03B,PM,2018-10-07,11,Adult,Gray,Above Ground,in tree,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.78287788922760000000,-73.96641005044360000000,21D-AM-1008-02,21D,AM,2018-10-08,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77484670619690000000,-73.97462290946430000000,10B-PM-1014-05,10B,PM,2018-10-14,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,true,false,false,false
+40.77610929729650000000,-73.97050929588920000000,13E-PM-1008-07,13E,PM,2018-10-08,7,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79977081900220000000,-73.95816559494370000000,41A-PM-1007-06,41A,PM,2018-10-07,6,Adult,Black,Ground Plane,,true,false,true,true,false,,false,false,false,false,false,false,false,true
+40.76629923175750000000,-73.97555607862270000000,2F-AM-1006-05,02F,AM,2018-10-06,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.78282080838040000000,-73.96964335339860000000,20B-AM-1007-01,20B,AM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,false,true,quietly,false,false,false,false,false,false,true,false
+40.78789642876800000000,-73.96647116070220000000,26A-PM-1006-06,26A,PM,2018-10-06,6,Adult,Gray,Ground Plane,Tree 90th left 90th & 89,false,false,true,false,false,,false,false,false,true,false,false,false,false
+40.79337552667870000000,-73.95759438155640000000,35E-PM-1006-07,35E,PM,2018-10-06,7,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,true
+40.77288773779770000000,-73.96941681186430000000,11G-PM-1013-01,11G,PM,2018-10-13,1,Adult,Gray,Above Ground,In the Woods/Brush,false,false,true,false,true,,false,false,false,false,false,false,false,true
+40.79258078083070000000,-73.95286825077940000000,36I-PM-1007-13,36I,PM,2018-10-07,13,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,true,true,false,false
+40.77246650364470000000,-73.97824171151390000000,7A-AM-1006-01,07A,AM,2018-10-06,1,Adult,Gray,Above Ground,in tree,false,false,false,false,true,,false,true,false,false,true,false,false,false
+40.77007508023170000000,-73.97214429397970000000,7G-PM-1018-03,07G,PM,2018-10-18,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77698846123050000000,-73.96984738086500000000,14E-AM-1008-05,14E,AM,2018-10-08,5,Adult,Gray,Above Ground,,false,false,true,false,false,nest building,false,false,false,false,false,false,true,false
+40.76848381682070000000,-73.97686527856640000000,3D-PM-1010-03,03D,PM,2018-10-10,3,Adult,Cinnamon,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.79375809857300000000,-73.95909928414230000000,35D-PM-1013-09,35D,PM,2018-10-13,9,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77057118979770000000,-73.97240639867710000000,7F-PM-1012-01,07F,PM,2018-10-12,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77878725611770000000,-73.96613613106770000000,18G-PM-1013-01,18G,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,true,true,burying,false,false,false,false,false,false,false,true
+40.77013042119440000000,-73.97307506012120000000,6F-PM-1008-01,06F,PM,2018-10-08,1,Adult,Gray,Above Ground,,false,true,false,false,false,,false,false,false,false,false,false,false,false
+40.77208681245440000000,-73.97197067061400000000,9F-AM-1013-04,09F,AM,2018-10-13,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79510443782070000000,-73.95621174551000000000,38E-AM-1010-09,38E,AM,2018-10-10,9,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79054235461550000000,-73.95640236266190000000,33G-AM-1013-02,33G,AM,2018-10-13,2,Adult,Gray,Above Ground,shelter in hole in tree,false,false,true,false,false,,false,false,false,false,false,false,true,true
+40.79524755480480000000,-73.95326201283070000000,39G-AM-1018-01,39G,AM,2018-10-18,1,Adult,Gray,Ground Plane,,false,false,false,false,false,dead (something ran over it),false,false,false,false,false,false,false,false
+40.79044099124370000000,-73.95763493213570000000,32G-PM-1013-03,32G,PM,2018-10-13,3,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76863510971590000000,-73.97634308293420000000,4D-PM-1008-11,04D,PM,2018-10-08,11,Adult,Cinnamon,Above Ground,on tree facing downward,false,true,false,false,false,chased #12,true,false,false,true,false,false,false,true
+40.76948866451940000000,-73.97147891367570000000,6H-AM-1008-01,06H,AM,2018-10-08,1,Adult,Cinnamon,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.76978834359810000000,-73.97551337106650000000,5E-AM-1008-08,05E,AM,2018-10-08,8,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77732954191040000000,-73.97023489828030000000,15D-PM-1017-01,15D,PM,2018-10-17,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77816584248660000000,-73.96860560852970000000,16E-AM-1014-03,16E,AM,2018-10-14,3,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,true,false,false
+40.79495984866830000000,-73.95221423603880000000,39H-PM-1013-02,39H,PM,2018-10-13,2,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.79727518774470000000,-73.95765899974930000000,39C-PM-1006-02,39C,PM,2018-10-06,2,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79157004468780000000,-73.96379468787350000000,31A-AM-1010-04,31A,AM,2018-10-10,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,false,false
+40.77238897266470000000,-73.97109911239920000000,9F-PM-1014-02,09F,PM,2018-10-14,2,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.78104500652350000000,-73.96382703313360000000,21G-PM-1007-02,21G,PM,2018-10-07,2,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,true,false,false,false,true
+40.76700903277360000000,-73.97560150058210000000,2F-AM-1006-01,02F,AM,2018-10-06,1,Adult,Gray,Ground Plane,walking along path,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.78091877619950000000,-73.96496325508280000000,20F-PM-1007-01,20F,PM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,true,false,true,false
+40.79315290597790000000,-73.95721920433500000000,35E-PM-1006-01,35E,PM,2018-10-06,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,false,false
+40.77145348473790000000,-73.97123088643940000000,9G-AM-1007-04,09G,AM,2018-10-07,4,Adult,Gray,Above Ground,,false,false,false,false,false,grooming,false,false,false,false,false,false,true,false
+40.77016715819390000000,-73.97586761442550000000,5D-PM-1018-03,05D,PM,2018-10-18,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77663562269790000000,-73.96905885654500000000,14F-PM-1012-06,14F,PM,2018-10-12,6,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,true,false,true,false
+40.78340517162260000000,-73.96384633980400000000,23F-AM-1018-01,23F,AM,2018-10-18,1,Adult,Cinnamon,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.79763680039150000000,-73.95976427784270000000,39A-PM-1014-02,39A,PM,2018-10-14,2,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,false,false,false,false
+40.77710355892980000000,-73.97456913530180000000,13A-PM-1014-03,13A,PM,2018-10-14,3,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77441749650720000000,-73.97487064155840000000,10B-AM-1006-02,10B,AM,2018-10-06,2,Juvenile,Gray,Above Ground,High in a tree,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.79694095101330000000,-73.95972059663240000000,38B-AM-1019-01,38B,AM,2018-10-19,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77197032351780000000,-73.97108658809100000000,9G-PM-1007-06,09G,PM,2018-10-07,6,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.79827378969980000000,-73.95853564077400000000,40B-AM-1019-02,40B,AM,2018-10-19,2,Juvenile,Gray,Ground Plane,,true,true,false,false,false,,false,false,false,false,true,false,false,false
+40.79341239415280000000,-73.95877018015100000000,35D-PM-1013-04,35D,PM,2018-10-13,4,Juvenile,Gray,,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77238890803770000000,-73.97072740557550000000,10G-PM-1017-10,10G,PM,2018-10-17,10,Adult,Gray,Ground Plane,,false,true,false,false,false,playing (with #9),false,false,false,false,false,false,true,false
+40.77640437829240000000,-73.97200650666180000000,13C-AM-1010-04,13C,AM,2018-10-10,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.79215844004300000000,-73.96180646391530000000,32C-PM-1013-12,32C,PM,2018-10-13,12,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,true,true,false,false
+40.79456690544490000000,-73.95544323932950000000,37F-PM-1014-01,37F,PM,2018-10-14,1,,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.79078619711100000000,-73.96137805225420000000,31D-PM-1006-04,31D,PM,2018-10-06,4,Adult,Gray,Above Ground,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77599586967900000000,-73.96469014323280000000,15I-PM-1012-03,15I,PM,2018-10-12,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.78180381722750000000,-73.96908283251790000000,19C-PM-1018-04,19C,PM,2018-10-18,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77247363353800000000,-73.97087758644330000000,10F-PM-1019-12,10F,PM,2018-10-19,12,Adult,Black,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,true
+40.78081395382220000000,-73.96910506560130000000,18C-PM-1018-01,18C,PM,2018-10-18,1,,Black,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77284940387440000000,-73.97684346350840000000,7B-AM-1008-11,07B,AM,2018-10-08,11,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79708950079310000000,-73.95538118104340000000,40E-AM-1014-02,40E,AM,2018-10-14,2,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,true,false,true,false
+40.79638522990120000000,-73.95884684130940000000,38B-AM-1019-05,38B,AM,2018-10-19,5,Adult,Gray,Above Ground,,false,false,true,false,false,sitting still,false,true,false,false,false,false,false,false
+40.76930017547690000000,-73.97881381729620000000,3B-AM-1010-09,03B,AM,2018-10-10,9,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.78152774795880000000,-73.97001620340730000000,19B-AM-1019-02,19B,AM,2018-10-19,2,Juvenile,Gray,Ground Plane,,true,false,false,true,false,posing,false,false,false,false,false,false,true,true
+40.79909738041490000000,-73.95705287704270000000,41B-AM-1010-07,41B,AM,2018-10-10,7,Adult,Cinnamon,Above Ground,,false,false,false,false,false,,true,false,false,true,false,true,false,false
+40.76812579115230000000,-73.97354895379280000000,4G-AM-1006-02,04G,AM,2018-10-06,2,,Gray,Above Ground,tree,false,false,false,false,false,sitting in tree,false,false,false,false,false,false,true,false
+40.77430704234350000000,-73.96955079651550000000,12F-PM-1007-04,12F,PM,2018-10-07,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76937081338730000000,-73.97871050696570000000,3B-AM-1010-08,03B,AM,2018-10-10,8,Juvenile,Gray,Above Ground,,false,false,true,false,false,together w/ #7,false,false,false,false,false,false,true,false
+40.77778060069510000000,-73.96516548879910000000,17H-PM-1007-02,17H,PM,2018-10-07,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,true,false
+40.79412725997970000000,-73.95376912987520000000,38G-PM-1020-01,38G,PM,2018-10-20,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,true,false,false,false,true
+40.76917253269760000000,-73.97648399730680000000,4D-PM-1008-06,04D,PM,2018-10-08,6,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,true,false
+40.76736626110150000000,-73.97377736133110000000,3G-PM-1013-01,03G,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77604028428450000000,-73.96579697896900000000,15H-PM-1008-03,15H,PM,2018-10-08,3,Adult,Gray,Ground Plane,lawn moving east over Park path,false,false,false,false,false,not sure walk-pause-walk,false,false,false,false,false,false,true,false
+40.77541865796470000000,-73.96793363417930000000,14G-PM-1013-01,14G,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.76964206028600000000,-73.97611070653530000000,5D-AM-1020-01,05D,AM,2018-10-20,1,Adult,,Above Ground,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77096779832470000000,-73.97716146866160000000,5C-AM-1006-02,05C,AM,2018-10-06,2,Adult,Cinnamon,Above Ground,,true,false,true,true,false,,false,false,false,false,false,false,true,false
+40.79731068339510000000,-73.95107475863010000000,42H-AM-1019-02,42H,AM,2018-10-19,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79735227442370000000,-73.95980158428060000000,38A-PM-1013-03,38A,PM,2018-10-13,3,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77036926213710000000,-73.97187291016760000000,7G-PM-1018-05,07G,PM,2018-10-18,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79135321291480000000,-73.96387745795490000000,31A-AM-1010-05,31A,AM,2018-10-10,5,Adult,Gray,Ground Plane,,false,false,false,true,true,jumping,false,false,false,true,true,false,true,false
+40.78371036969060000000,-73.96795381633410000000,22C-AM-1013-03,22C,AM,2018-10-13,3,Juvenile,Cinnamon,Ground Plane,,false,false,false,true,true,eating (mushroom),false,false,false,false,false,false,false,true
+40.79360555081620000000,-73.95647241040480000000,36F-PM-1012-04,36F,PM,2018-10-12,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.78924319342090000000,-73.96136434180250000000,30D-AM-1017-02,30D,AM,2018-10-17,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77099613094570000000,-73.97708244122520000000,5C-AM-1006-03,05C,AM,2018-10-06,3,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77464928063330000000,-73.96776461871710000000,13H-PM-1010-05,13H,PM,2018-10-10,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77255060067890000000,-73.97107601968680000000,10F-PM-1019-02,10F,PM,2018-10-19,2,Juvenile,Gray,Ground Plane,"Behind fence, grass",true,false,false,false,false,,false,false,false,false,true,false,false,true
+40.76769026035430000000,-73.97112984911320000000,5I-PM-1008-01,05I,PM,2018-10-08,1,Adult,Black,Above Ground,in tree by arsenal - climbing,false,false,true,true,false,,false,false,false,true,false,false,false,false
+40.77835477952220000000,-73.97027558051410000000,16D-PM-1010-13,16D,PM,2018-10-10,13,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78097479008330000000,-73.96388371603410000000,21G-AM-1014-07,21G,AM,2018-10-14,7,Adult,Gray,Above Ground,,false,true,true,false,false,,false,false,false,false,false,false,false,false
+40.78384726448150000000,-73.96836748515700000000,22B-PM-1014-05,22B,PM,2018-10-14,5,,Gray,Ground Plane,,false,false,false,true,false,eating (eats with head tilted far to the right (tooth issue?)),false,false,false,false,false,false,false,false
+40.76798950939630000000,-73.97725765612440000000,3D-AM-1006-08,03D,AM,2018-10-06,8,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,true,false,false
+40.79499117023920000000,-73.95196399188040000000,39H-AM-1007-01,39H,AM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77024115023080000000,-73.97542703689840000000,6D-PM-1020-01,06D,PM,2018-10-20,1,Adult,Gray,Ground Plane,Baseball field,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77487029092180000000,-73.97123273085120000000,12E-PM-1018-06,12E,PM,2018-10-18,6,Juvenile,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77730530996570000000,-73.97123187126430000000,14D-PM-1019-04,14D,PM,2018-10-19,4,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.76824045289030000000,-73.97612099454190000000,3E-PM-1008-03,03E,PM,2018-10-08,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77877522870550000000,-73.96718161220300000000,17F-PM-1020-03,17F,PM,2018-10-20,3,Adult,Gray,Above Ground,,false,false,true,true,false,,false,false,false,false,false,false,false,false
+40.78393843185540000000,-73.96657091467380000000,22D-PM-1012-04,22D,PM,2018-10-12,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77323994636260000000,-73.97702735535250000000,8A-AM-1013-03,08A,AM,2018-10-13,3,Juvenile,,Above Ground,fence,true,true,true,true,false,playing tag together,false,false,false,false,false,true,false,false
+40.77137325675120000000,-73.97370917078310000000,7E-AM-1006-03,07E,AM,2018-10-06,3,Adult,Gray,Ground Plane,under a tree,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.79750762998110000000,-73.95205924963490000000,42G-PM-1014-03,42G,PM,2018-10-14,3,Adult,Cinnamon,Above Ground,on fence,true,false,false,false,false,prancing,false,false,false,false,false,false,false,true
+40.78873408677730000000,-73.96384226615100000000,28C-PM-1006-02,28C,PM,2018-10-06,2,Adult,Gray,Ground Plane,Near rock,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.76764211903090000000,-73.97756817314590000000,2D-AM-1007-03,02D,AM,2018-10-07,3,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79058878269830000000,-73.95981553009130000000,32E-AM-1007-10,32E,AM,2018-10-07,10,Adult,Black,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77532945256440000000,-73.97286607796220000000,12C-AM-1013-03,12C,AM,2018-10-13,3,Adult,Gray,Ground Plane,,false,false,false,false,true,burying,false,false,false,false,false,false,true,false
+40.77142602366360000000,-73.97241624297100000000,8F-PM-1012-04,08F,PM,2018-10-12,4,Adult,Gray,Above Ground,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.76599631965810000000,-73.97314980648720000000,2H-AM-1006-02,02H,AM,2018-10-06,2,Adult,Gray,Ground Plane,,false,true,true,false,false,,false,false,false,false,false,true,false,false
+40.79241672344410000000,-73.95278081745340000000,36I-AM-1017-05,36I,AM,2018-10-17,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,true
+40.79215248682110000000,-73.96241845860310000000,32B-AM-1017-03,32B,AM,2018-10-17,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,true,true,true
+40.79494013508820000000,-73.95683430932280000000,37E-PM-1006-04,37E,PM,2018-10-06,4,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77581342578810000000,-73.97414013778440000000,12B-AM-1007-02,12B,AM,2018-10-07,2,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,true,false,false,true,false
+40.76832116942570000000,-73.97535742799360000000,4E-PM-1008-08,04E,PM,2018-10-08,8,Adult,Gray,Ground Plane,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77863383798960000000,-73.97372660709190000000,14A-PM-1014-01,14A,PM,2018-10-14,1,Adult,Gray,Ground Plane,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77674095973410000000,-73.96789565689800000000,15F-PM-1010-07,15F,PM,2018-10-10,7,Adult,Gray,Above Ground,on fence,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77420356742090000000,-73.97609422524370000000,9B-PM-1013-07,09B,PM,2018-10-13,7,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77259574088410000000,-73.97584649051330000000,8C-PM-1013-05,08C,PM,2018-10-13,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,true,false
+40.77177087942210000000,-73.97670805121770000000,6B-PM-1017-04,06B,PM,2018-10-17,4,Adult,Gray,Ground Plane,,true,true,false,false,true,,false,false,false,false,false,false,false,false
+40.77035731313980000000,-73.97602564775580000000,5D-AM-1020-02,05D,AM,2018-10-20,2,Adult,Gray,Ground Plane,,false,false,true,false,true,small jumps,false,false,false,false,false,false,false,false
+40.79826324568660000000,-73.95902366020850000000,40A-AM-1010-04,40A,AM,2018-10-10,4,Adult,Gray,Ground Plane,bottom great hill,false,false,false,false,true,,false,false,false,true,false,false,true,true
+40.76856190297650000000,-73.97547788084710000000,4E-AM-1020-01,04E,AM,2018-10-20,1,Adult,Gray,Above Ground,,false,false,true,false,false,sitting very still,false,false,false,false,false,false,true,false
+40.79034430297250000000,-73.95976487757890000000,32E-AM-1007-01,32E,AM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,true
+40.79070738882770000000,-73.95894143392420000000,32E-PM-1017-04,32E,PM,2018-10-17,4,Adult,Gray,Ground Plane,treed area,false,false,false,true,true,,false,false,false,false,false,false,false,true
+40.76809315667970000000,-73.97798056680910000000,2D-PM-1012-02,02D,PM,2018-10-12,2,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,true,false,false
+40.76945846201140000000,-73.97331176635410000000,6F-PM-1008-05,06F,PM,2018-10-08,5,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77432841231180000000,-73.97517294036940000000,10B-PM-1014-02,10B,PM,2018-10-14,2,Adult,Gray,Above Ground,gingko tree by traffic light in front of Strawberry Fields,false,false,false,false,true,,false,false,false,false,true,false,false,false
+40.76849186386390000000,-73.97863392957350000000,3C-PM-1008-02,03C,PM,2018-10-08,2,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77030226693080000000,-73.97267476660020000000,7F-AM-1008-02,07F,AM,2018-10-08,2,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.79642210878790000000,-73.95708175790920000000,38D-AM-1017-02,38D,AM,2018-10-17,2,Adult,Gray,Ground Plane,,false,false,false,false,false,hiding in log,false,false,false,false,false,false,true,false
+40.77496285974650000000,-73.97442066878200000000,10C-PM-1013-04,10C,PM,2018-10-13,4,,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.78475915584910000000,-73.95896270565610000000,26I-PM-1010-02,26I,PM,2018-10-10,2,Adult,Gray,Ground Plane,,false,false,false,false,true,hiding food,false,false,false,false,true,false,true,false
+40.77516407765200000000,-73.97622466001970000000,10A-AM-1006-03,10A,AM,2018-10-06,3,Juvenile,Cinnamon,Ground Plane,Bridle Path lawn,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.76768251343840000000,-73.98006691157920000000,1B-AM-1012-07,01B,AM,2018-10-12,7,Adult,Cinnamon,Above Ground,on tree trunk,false,true,true,false,false,,false,false,false,false,false,false,true,false
+40.77413165741130000000,-73.97679812430800000000,9A-PM-1010-04,09A,PM,2018-10-10,4,,Cinnamon,Above Ground,,true,false,true,false,false,,false,false,false,false,false,false,true,false
+40.76840359967580000000,-73.97733170544640000000,3D-AM-1006-03,03D,AM,2018-10-06,3,Juvenile,Cinnamon,Ground Plane,on top [of] a big rock/boulder in the area,true,false,true,false,false,climbing (rock),false,false,false,false,false,true,false,false
+40.79325641633280000000,-73.95343334256330000000,37H-AM-1018-03,37H,AM,2018-10-18,3,Adult,Gray,Above Ground,in a tree with red berries,false,false,false,true,false,,false,true,false,false,false,false,false,true
+40.77060961263280000000,-73.97269580705360000000,7F-AM-1008-09,07F,AM,2018-10-08,9,Adult,Gray,Above Ground,,false,false,true,false,false,playing w/ #8,false,false,false,false,false,false,true,false
+40.77247692424030000000,-73.97843611793200000000,6A-AM-1006-06,06A,AM,2018-10-06,6,Adult,Gray,Above Ground,tree,false,false,true,false,false,,true,false,false,false,false,false,false,false
+40.78897393187200000000,-73.95528611552280000000,32I-AM-1013-05,32I,AM,2018-10-13,5,Adult,Cinnamon,Above Ground,In and below shrub,false,false,true,false,true,,false,false,false,true,false,false,true,false
+40.76958855307010000000,-73.97128762341720000000,7H-PM-1006-02,07H,PM,2018-10-06,2,Adult,Gray,Above Ground,tree,true,false,true,true,true,,false,false,false,false,false,false,true,false
+40.76705382149880000000,-73.97710691815110000000,2E-PM-1014-05,02E,PM,2018-10-14,5,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77438146616850000000,-73.96987147433860000000,12F-AM-1020-02,12F,AM,2018-10-20,2,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77676039285800000000,-73.96910949422940000000,14E-AM-1008-01,14E,AM,2018-10-08,1,Adult,Gray,Ground Plane,,false,false,false,true,false,walking,false,false,false,false,false,false,false,true
+40.76973728119490000000,-73.97864810094990000000,4B-PM-1018-03,04B,PM,2018-10-18,3,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,true,false,false
+40.76969983272470000000,-73.97547422950910000000,5E-PM-1012-02,05E,PM,2018-10-12,2,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77686126760360000000,-73.96810727676900000000,15F-AM-1007-09,15F,AM,2018-10-07,9,Adult,Cinnamon,Above Ground,,false,false,true,false,true,,false,false,false,false,false,false,false,true
+40.78917085993180000000,-73.95914003661590000000,31F-PM-1007-01,31F,PM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77307862987010000000,-73.97671916296920000000,8B-PM-1012-03,08B,PM,2018-10-12,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.78440855509450000000,-73.96612628850990000000,23D-AM-1013-01,23D,AM,2018-10-13,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,true,false,false
+40.79493734084500000000,-73.95219500564040000000,39H-PM-1013-01,39H,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.79606050288480000000,-73.95792185871720000000,38C-AM-1019-04,38C,AM,2018-10-19,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,true,true,false,false,false,false,true,false
+40.79095324370950000000,-73.96398328860710000000,30B-PM-1019-08,30B,PM,2018-10-19,8,Adult,Gray,Ground Plane,,false,false,true,true,true,,false,false,false,false,false,false,false,true
+40.76865203528680000000,-73.97446790372300000000,4F-PM-1013-04,04F,PM,2018-10-13,4,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.76793265488450000000,-73.97585796668740000000,3E-PM-1008-05,03E,PM,2018-10-08,5,Adult,Gray,Ground Plane,,false,false,false,true,false,jump,false,false,false,false,false,false,true,false
+40.79525566925000000000,-73.96190702296740000000,35A-AM-1014-05,35A,AM,2018-10-14,5,Juvenile,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77075265353810000000,-73.97877969211650000000,5A-PM-1010-01,05A,PM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,false,false
+40.78945215434490000000,-73.95500820565090000000,33I-AM-1008-03,33I,AM,2018-10-08,3,Adult,Gray,Above Ground,98th @ edge of park,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.79603222229490000000,-73.95874012742610000000,37C-PM-1013-03,37C,PM,2018-10-13,3,Adult,Gray,,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79235366402830000000,-73.96194119179090000000,33B-PM-1010-11,33B,PM,2018-10-10,11,Adult,Gray,Above Ground,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77309732824230000000,-73.97015758910980000000,10G-PM-1017-06,10G,PM,2018-10-17,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79279097353880000000,-73.95290606691930000000,37I-AM-1010-01,37I,AM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.79389377563320000000,-73.95473366661370000000,37G-PM-1007-07,37G,PM,2018-10-07,7,Adult,Gray,Above Ground,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77317083332420000000,-73.96914333567330000000,11G-AM-1012-01,11G,AM,2018-10-12,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77629878360550000000,-73.97209073846130000000,13C-PM-1019-01,13C,PM,2018-10-19,1,Adult,Gray,Above Ground,,false,false,true,false,false,,true,false,false,false,false,false,true,false
+40.78280979397770000000,-73.97092814714420000000,20A-AM-1010-02,20A,AM,2018-10-10,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77866406763550000000,-73.97311132651650000000,15A-PM-1017-01,15A,PM,2018-10-17,1,Adult,Gray,Above Ground,,false,false,true,true,false,eating in tree,false,false,false,false,false,false,true,false
+40.77809016436000000000,-73.96842541968660000000,16E-AM-1014-02,16E,AM,2018-10-14,2,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,true,false,false
+40.79478870623260000000,-73.95606798644260000000,37E-PM-1006-06,37E,PM,2018-10-06,6,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.78373883906730000000,-73.96796613083740000000,22C-AM-1013-01,22C,AM,2018-10-13,1,Adult,Gray,Above Ground,,false,false,false,false,false,"sitting still,tail over back",false,false,false,false,false,false,false,false
+40.77725296624240000000,-73.96740695246010000000,16F-PM-1013-02,16F,PM,2018-10-13,2,Adult,Gray,Ground Plane,Woods,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77052027905250000000,-73.96961736778370000000,8H-AM-1017-04,08H,AM,2018-10-17,4,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.76566440630240000000,-73.97565735790630000000,1G-PM-1010-01,01G,PM,2018-10-10,1,Adult,Gray,Above Ground,,false,false,true,true,false,,false,false,false,true,false,false,true,false
+40.78288936451970000000,-73.97006916295740000000,20A-PM-1017-01,20A,PM,2018-10-17,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79577535915850000000,-73.95969646416520000000,37B-AM-1018-03,37B,AM,2018-10-18,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77734399090650000000,-73.96856040137350000000,15F-PM-1010-03,15F,PM,2018-10-10,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79443596542270000000,-73.95734259618800000000,37E-PM-1006-09,37E,PM,2018-10-06,9,Adult,Cinnamon,Ground Plane,,false,false,false,false,false,moseying,false,false,false,false,true,true,false,false
+40.79374739687350000000,-73.95862140816670000000,35D-PM-1013-03,35D,PM,2018-10-13,3,Juvenile,Gray,Above Ground,bench,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.79249848106370000000,-73.95281497798090000000,36I-AM-1017-06,36I,AM,2018-10-17,6,Adult,Gray,Above Ground,Running down tree,true,false,true,false,false,,false,false,false,false,false,false,true,false
+40.76642276766530000000,-73.97174254942870000000,3I-PM-1013-07,03I,PM,2018-10-13,7,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77417251900480000000,-73.96951764177030000000,12G-PM-1007-04,12G,PM,2018-10-07,4,,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.76945223153220000000,-73.97623482246480000000,4D-PM-1008-08,04D,PM,2018-10-08,8,Adult,Cinnamon,Ground Plane,,false,false,true,true,true,climbed fence staring at me - went up tree,false,false,false,false,false,false,false,true
+40.79492310001860000000,-73.95230018343950000000,39H-AM-1007-02,39H,AM,2018-10-07,2,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,true,false,true,false
+40.77241019278210000000,-73.97502837948650000000,8C-PM-1013-08,08C,PM,2018-10-13,8,,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77751695627650000000,-73.96897001002670000000,15E-PM-1008-05,15E,PM,2018-10-08,5,Adult,Gray,Above Ground,,false,false,false,false,false,sitting,false,true,false,false,false,false,false,false
+40.77186798489780000000,-73.96839658419520000000,10I-AM-1010-03,10I,AM,2018-10-10,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78873058020440000000,-73.95540958235570000000,32I-AM-1013-01,32I,AM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,true,false
+40.78208106735320000000,-73.96960011841290000000,19B-PM-1018-05,19B,PM,2018-10-18,5,Juvenile,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.76914315485440000000,-73.97950812746950000000,3B-PM-1007-03,03B,PM,2018-10-07,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,false,false
+40.79341165397320000000,-73.95787795565740000000,35E-PM-1006-06,35E,PM,2018-10-06,6,Adult,Gray,Above Ground,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79601445957100000000,-73.95835611235700000000,38C-AM-1019-07,38C,AM,2018-10-19,7,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,true,false,false,true
+40.77905835442520000000,-73.96466103479720000000,19H-AM-1010-05,19H,AM,2018-10-10,5,Adult,Gray,Ground Plane,near a brush,false,false,false,true,true,,false,false,false,false,false,false,false,true
+40.79172438501360000000,-73.96060106717600000000,32D-PM-1006-09,32D,PM,2018-10-06,9,Juvenile,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,true,true,false,false
+40.79560554420000000000,-73.95397347709340000000,39G-PM-1013-04,39G,PM,2018-10-13,4,Adult,Gray,Ground Plane,,false,true,false,true,false,,false,false,false,false,false,false,false,false
+40.79515566032450000000,-73.95406166601910000000,38G-PM-1020-10,38G,PM,2018-10-20,10,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,true,false,false,false,true
+40.79080840398860000000,-73.95457990245080000000,34I-PM-1010-01,34I,PM,2018-10-10,1,Adult,Gray,Above Ground,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.77686907231630000000,-73.97439905767460000000,12A-PM-1013-04,12A,PM,2018-10-13,4,,Gray,Above Ground,,false,true,false,false,false,chasing #3,false,false,false,false,false,false,true,false
+40.77975166888440000000,-73.96590343597060000000,19F-AM-1007-02,19F,AM,2018-10-07,2,Adult,Cinnamon,Above Ground,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.78242750672370000000,-73.96843760385820000000,20C-PM-1018-09,20C,PM,2018-10-18,9,Adult,Cinnamon,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,true,false,false
+40.78429522652910000000,-73.96942888062120000000,22A-PM-1017-01,22A,PM,2018-10-17,1,Adult,Gray,Ground Plane,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.78981337349520000000,-73.95460429270160000000,33I-PM-1006-07,33I,PM,2018-10-06,7,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.79440445925730000000,-73.95734697875030000000,36E-AM-1013-03,36E,AM,2018-10-13,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79081351585510000000,-73.95878796999560000000,32F-AM-1012-01,32F,AM,2018-10-12,1,,Gray,Ground Plane,,false,false,false,false,true,made a back-door escape from dog off-leash,false,false,false,false,false,false,false,true
+40.78857642840160000000,-73.96309908232430000000,28D-AM-1012-02,28D,AM,2018-10-12,2,Adult,Black,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,true
+40.77294804403120000000,-73.96998435706360000000,10G-AM-1006-01,10G,AM,2018-10-06,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,true,false,true,false
+40.79590520737530000000,-73.95343062916790000000,39G-PM-1013-07,39G,PM,2018-10-13,7,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78192968871470000000,-73.96523572796710000000,21E-PM-1012-02,21E,PM,2018-10-12,2,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77836699134080000000,-73.96783299254300000000,17E-PM-1018-03,17E,PM,2018-10-18,3,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77676955074620000000,-73.97089692462760000000,14D-AM-1014-03,14D,AM,2018-10-14,3,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79544696788570000000,-73.95448101115000000000,39F-PM-1006-03,39F,PM,2018-10-06,3,Adult,Gray,Above Ground,lower branch of tree,false,false,false,true,false,,false,false,false,false,false,false,false,true
+40.77317237578690000000,-73.97051236249530000000,10F-PM-1019-11,10F,PM,2018-10-19,11,Adult,Gray,Ground Plane,Grassy area,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.78823338307290000000,-73.96675600496840000000,27A-PM-1006-01,27A,PM,2018-10-06,1,Juvenile,Gray,Above Ground,on a tree,false,false,false,true,true,walking up & down branches,false,false,false,false,false,false,true,false
+40.78073644813850000000,-73.96873952288460000000,18D-AM-1018-02,18D,AM,2018-10-18,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77158966723350000000,-73.97823514358520000000,6A-AM-1006-03,06A,AM,2018-10-06,3,Adult,Gray,Above Ground,tree,false,true,false,true,false,,false,false,false,true,true,false,false,false
+40.76925827589780000000,-73.97574132156210000000,4E-PM-1008-04,04E,PM,2018-10-08,4,Adult,Gray,Above Ground,,true,true,true,false,false,,false,false,false,false,false,false,true,false
+40.78526493160390000000,-73.95831019276520000000,27I-PM-1020-05,27I,PM,2018-10-20,5,Adult,Gray,Above Ground,In tree,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77484553404320000000,-73.97655955531830000000,10A-PM-1014-04,10A,PM,2018-10-14,4,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77524567632630000000,-73.96550957640300000000,14I-PM-1018-05,14I,PM,2018-10-18,5,Adult,Gray,Above Ground,,false,false,true,true,false,,false,false,false,false,true,false,true,false
+40.76525855019590000000,-73.97449608298440000000,1H-AM-1012-01,01H,AM,2018-10-12,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,false,true
+40.77026104613360000000,-73.97031617458840000000,8H-PM-1014-05,08H,PM,2018-10-14,5,Juvenile,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.78898491086370000000,-73.96059666362260000000,30E-AM-1008-01,30E,AM,2018-10-08,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,false,true
+40.77968333538940000000,-73.97302245616010000000,16A-PM-1019-04,16A,PM,2018-10-19,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77332406125520000000,-73.97594321515520000000,8B-PM-1012-06,08B,PM,2018-10-12,6,Adult,Gray,Above Ground,on a bench,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77157921135050000000,-73.97244522963090000000,8F-PM-1012-03,08F,PM,2018-10-12,3,Adult,Gray,Ground Plane,,false,false,false,false,true,buried an acorn,false,false,false,false,false,false,true,false
+40.77455207170650000000,-73.97129715682880000000,11E-AM-1013-02,11E,AM,2018-10-13,2,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.78166928951550000000,-73.96116961447840000000,22I-AM-1007-03,22I,AM,2018-10-07,3,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.79409153006780000000,-73.95429901505860000000,37G-PM-1007-09,37G,PM,2018-10-07,9,Adult,Cinnamon,,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77678342767670000000,-73.96896570399170000000,15F-AM-1007-04,15F,AM,2018-10-07,4,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.77592551317340000000,-73.97074710995030000000,13E-AM-1017-08,13E,AM,2018-10-17,8,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77719242142360000000,-73.97133305944340000000,14D-AM-1014-10,14D,AM,2018-10-14,10,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76981030670620000000,-73.97054098832800000000,7H-AM-1006-06,07H,AM,2018-10-06,6,Adult,Gray,Above Ground,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.76500770865390000000,-73.97400077595090000000,1H-PM-1013-01,01H,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79903578974400000000,-73.95667510223360000000,41C-PM-1007-04,41C,PM,2018-10-07,4,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79003375987040000000,-73.96396351347380000000,29B-PM-1010-05,29B,PM,2018-10-10,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77054826845940000000,-73.97610364001440000000,6D-PM-1020-03,06D,PM,2018-10-20,3,Juvenile,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,true,false,false,true
+40.77901319666890000000,-73.97248017842010000000,15B-PM-1017-05,15B,PM,2018-10-17,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77772917779010000000,-73.96356587864160000000,18I-AM-1017-03,18I,AM,2018-10-17,3,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77531818517660000000,-73.97164047812640000000,12D-PM-1014-02,12D,PM,2018-10-14,2,Adult,Gray,Above Ground,,false,false,true,false,false,seems to be grinding teeth on a piece of material (sounds from grinding),false,false,false,false,false,false,true,false
+40.78765199235010000000,-73.96720546101510000000,26A-PM-1006-05,26A,PM,2018-10-06,5,Adult,Gray,Above Ground,,false,true,false,false,false,,false,false,false,false,true,false,false,false
+40.79129297998840000000,-73.96148244372510000000,32C-PM-1013-03,32C,PM,2018-10-13,3,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,true,false,false,false
+40.79319173964060000000,-73.95714079915770000000,35E-PM-1006-02,35E,PM,2018-10-06,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,false,false
+40.77739568034310000000,-73.97071972744810000000,14D-PM-1019-12,14D,PM,2018-10-19,12,Adult,Gray,,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.79218486137500000000,-73.96236961480450000000,32B-AM-1017-04,32B,AM,2018-10-17,4,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.79661208248160000000,-73.95760350723640000000,38C-AM-1019-01,38C,AM,2018-10-19,1,Juvenile,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77656690583960000000,-73.96735485270750000000,15G-PM-1019-11,15G,PM,2018-10-19,11,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77395831116760000000,-73.97048628643040000000,11F-PM-1006-02,11F,PM,2018-10-06,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77209053954720000000,-73.97031567192100000000,10G-PM-1017-02,10G,PM,2018-10-17,2,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.79333869538470000000,-73.95963989972280000000,34D-PM-1007-02,34D,PM,2018-10-07,2,Adult,Black,Above Ground,,true,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79448444646190000000,-73.95489578620840000000,37G-AM-1014-05,37G,AM,2018-10-14,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79078986272870000000,-73.96408010418600000000,30B-AM-1007-02,30B,AM,2018-10-07,2,Adult,Gray,Above Ground,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77250003488750000000,-73.97813038690380000000,7A-AM-1006-02,07A,AM,2018-10-06,2,Adult,Gray,Above Ground,in tree,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.78106668051330000000,-73.96721272832830000000,20D-AM-1007-01,20D,AM,2018-10-07,1,Adult,Gray,Ground Plane,,true,false,true,true,false,a lot of activity,false,false,false,true,false,false,false,false
+40.78885200062100000000,-73.95568179584070000000,32I-AM-1013-02,32I,AM,2018-10-13,2,Juvenile,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77329181222390000000,-73.97520001299920000000,8C-PM-1013-04,08C,PM,2018-10-13,4,Juvenile,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77583226277110000000,-73.96988170791850000000,13E-PM-1008-10,13E,PM,2018-10-08,10,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,true,false,false,true
+40.76949979054700000000,-73.97570019447810000000,5E-AM-1008-09,05E,AM,2018-10-08,9,Adult,Cinnamon,Above Ground,went up tree,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.79782133969210000000,-73.95848354168460000000,39B-PM-1014-06,39B,PM,2018-10-14,6,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.79173204504010000000,-73.96068170534840000000,32D-PM-1006-07,32D,PM,2018-10-06,7,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,true,false,false,true,false
+40.78221079207690000000,-73.96495901199350000000,21F-AM-1018-01,21F,AM,2018-10-18,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,true,false,true,false
+40.79197450859860000000,-73.95970941469600000000,33D-PM-1006-03,33D,PM,2018-10-06,3,,Black,Above Ground,,true,false,false,true,false,,false,false,false,false,true,false,false,true
+40.77241557512820000000,-73.97359468355450000000,8E-PM-1008-01,08E,PM,2018-10-08,1,Adult,Gray,Ground Plane,by tree trunk base,false,false,false,true,false,,false,false,false,false,false,true,false,false
+40.79126319130570000000,-73.95883588796920000000,33E-PM-1012-01,33E,PM,2018-10-12,1,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,true
+40.78366267172250000000,-73.96804507274300000000,22C-AM-1013-02,22C,AM,2018-10-13,2,Adult,Cinnamon,Above Ground,,false,false,true,false,true,,true,false,false,true,false,false,false,true
+40.76921347275550000000,-73.97931627589900000000,3B-PM-1007-01,03B,PM,2018-10-07,1,Adult,Gray,Above Ground,in tree,false,false,false,false,false,chased by dog,false,false,false,false,false,false,false,false
+40.79746815222140000000,-73.95503513809570000000,40E-AM-1014-01,40E,AM,2018-10-14,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.78901029596290000000,-73.95783165254920000000,31G-PM-1007-01,31G,PM,2018-10-07,1,Adult,Gray,Above Ground,,false,false,false,false,false,hiding,false,false,false,false,true,false,false,false
+40.79192718213160000000,-73.95925374969950000000,33E-AM-1014-03,33E,AM,2018-10-14,3,Adult,Black,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77171796271270000000,-73.97339662823160000000,8E-PM-1008-08,08E,PM,2018-10-08,8,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77745647999830000000,-73.97072018765500000000,14D-PM-1019-11,14D,PM,2018-10-19,11,Adult,Gray,,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.76761047806570000000,-73.97908754803580000000,2C-AM-1010-03,02C,AM,2018-10-10,3,Adult,Black,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.76807075166270000000,-73.98023761310340000000,1B-AM-1012-12,01B,AM,2018-10-12,12,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.79655252967220000000,-73.95772126296510000000,38C-PM-1014-06,38C,PM,2018-10-14,6,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.76676816853560000000,-73.97198882417940000000,4I-PM-1007-03,04I,PM,2018-10-07,3,Adult,Gray,Above Ground,ran to tree,false,false,false,false,false,being chased,false,false,false,false,false,false,false,false
+40.79759284600300000000,-73.95656863003820000000,40C-PM-1006-03,40C,PM,2018-10-06,3,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77481557011220000000,-73.96692066057450000000,13H-PM-1010-03,13H,PM,2018-10-10,3,Adult,Gray,Ground Plane,in glen,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77166186709960000000,-73.96904169618860000000,10H-AM-1014-05,10H,AM,2018-10-14,5,,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77397140237320000000,-73.96867378668720000000,12G-PM-1007-06,12G,PM,2018-10-07,6,,Gray,,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77384734906810000000,-73.97634332024010000000,9B-PM-1013-10,09B,PM,2018-10-13,10,Juvenile,Cinnamon,Above Ground,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.79429036368700000000,-73.95905022576620000000,36C-PM-1013-06,36C,PM,2018-10-13,6,Adult,Gray,Ground Plane,Running across wide street,true,false,false,false,true,carrying food in mouth,false,false,false,false,false,false,false,false
+40.78259268969170000000,-73.96586210099100000000,22D-PM-1012-01,22D,PM,2018-10-12,1,Adult,Gray,Above Ground,,false,false,true,false,false,,true,false,false,false,false,false,false,false
+40.77232988137680000000,-73.96819173661280000000,11I-PM-1012-03,11I,PM,2018-10-12,3,Adult,Gray,Ground Plane,,true,false,true,false,true,,false,false,false,false,false,false,false,true
+40.79732159354160000000,-73.95974706599270000000,38A-PM-1013-01,38A,PM,2018-10-13,1,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,true,false,false,true
+40.77624919036910000000,-73.96807745485160000000,14F-PM-1012-01,14F,PM,2018-10-12,1,Adult,Gray,Ground Plane,,true,false,false,true,true,,false,false,false,false,false,false,true,false
+40.76719378370170000000,-73.97866031471490000000,1D-AM-1006-09,01D,AM,2018-10-06,9,Adult,Cinnamon,Ground Plane,,true,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77345751663190000000,-73.97663549671970000000,8B-AM-1007-09,08B,AM,2018-10-07,9,Adult,Gray,Ground Plane,,true,false,false,true,false,"shelling and eating a nut then a dog chased it up a tree & squirrel carried its nut up the tree,settled in a branch & resumed eating",false,false,false,false,false,false,true,false
+40.76894197653930000000,-73.97876584351980000000,3B-PM-1007-07,03B,PM,2018-10-07,7,Adult,Gray,Ground Plane,,false,false,false,true,false,eating loudly <- peanuts w/ shells,false,false,false,false,false,false,true,false
+40.78184223576190000000,-73.96337601736350000000,22G-PM-1018-03,22G,PM,2018-10-18,3,Juvenile,Gray,Ground Plane,,true,false,false,false,false,chilling,false,false,false,false,false,false,true,false
+40.79591763177050000000,-73.95308096504960000000,40G-PM-1013-02,40G,PM,2018-10-13,2,Adult,Gray,Ground Plane,,true,false,false,true,false,hiding from dog,false,false,false,false,false,false,false,true
+40.78514917019440000000,-73.95840249363920000000,27I-PM-1020-01,27I,PM,2018-10-20,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,true
+40.78360238979820000000,-73.96693664010710000000,22C-PM-1006-09,22C,PM,2018-10-06,9,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,true,false,false,false,false,false,false
+40.76729924052890000000,-73.97856757980340000000,1C-PM-1013-05,01C,PM,2018-10-13,5,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77082116338610000000,-73.96989341826120000000,8H-PM-1014-03,08H,PM,2018-10-14,3,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77615190456510000000,-73.97218998385680000000,13C-AM-1010-03,13C,AM,2018-10-10,3,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.79917867361240000000,-73.95701318903790000000,41B-PM-1014-05,41B,PM,2018-10-14,5,Adult,Gray,Above Ground,,false,false,true,false,false,,true,false,false,false,false,false,true,true
+40.76944849972950000000,-73.97027885783860000000,7I-PM-1013-05,07I,PM,2018-10-13,5,Adult,Gray,Ground Plane,Rock,false,false,false,true,false,,false,false,false,true,false,false,false,false
+40.79144939590900000000,-73.96398880923270000000,31A-AM-1010-01,31A,AM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,true,false,false,true
+40.79308441580210000000,-73.95736048804210000000,35E-PM-1006-03,35E,PM,2018-10-06,3,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.76690877246680000000,-73.97773287099280000000,1D-AM-1006-02,01D,AM,2018-10-06,2,Juvenile,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,true,false,false,false
+40.77508786576180000000,-73.96718516112430000000,14H-PM-1012-01,14H,PM,2018-10-12,1,Adult,Gray,Ground Plane,,true,false,false,true,false,,false,false,false,false,false,true,false,false
+40.77563615158250000000,-73.96646300677910000000,14H-AM-1007-04,14H,AM,2018-10-07,4,Juvenile,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,false,false,false,true
+40.76973765964700000000,-73.96946304091250000000,8I-PM-1013-01,08I,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77385188434460000000,-73.97567542977470000000,9B-PM-1013-02,09B,PM,2018-10-13,2,Juvenile,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77329628982400000000,-73.97565570864410000000,8B-PM-1012-08,08B,PM,2018-10-12,8,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77172905608060000000,-73.97044852318550000000,9G-AM-1007-02,09G,AM,2018-10-07,2,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77698899535960000000,-73.97419443671380000000,13B-PM-1008-01,13B,PM,2018-10-08,1,Adult,Gray,Above Ground,on railing,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.78964653034830000000,-73.95893677091650000000,31F-PM-1007-04,31F,PM,2018-10-07,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,false,true
+40.78079945952420000000,-73.96362827608000000000,21G-AM-1014-02,21G,AM,2018-10-14,2,Adult,Gray,Above Ground,fence,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77877352914420000000,-73.96947840566180000000,16D-PM-1010-01,16D,PM,2018-10-10,1,Adult,Gray,Ground Plane,,true,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77236893019890000000,-73.97101168014020000000,10G-PM-1017-08,10G,PM,2018-10-17,8,Adult,Black,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77460643632270000000,-73.97574360194320000000,10B-PM-1014-01,10B,PM,2018-10-14,1,Adult,Gray,Ground Plane,on lawn in front of a tree,false,false,false,false,true,,false,false,false,false,true,false,false,false
+40.77372314273450000000,-73.97577871359060000000,9B-PM-1013-03,09B,PM,2018-10-13,3,Juvenile,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.79133355155340000000,-73.95584747011530000000,34H-AM-1007-01,34H,AM,2018-10-07,1,Adult,Gray,Above Ground,tree,false,false,false,false,false,,true,true,false,false,false,false,false,false
+40.77453696164990000000,-73.96766397404860000000,13H-PM-1010-07,13H,PM,2018-10-10,7,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.76979287307910000000,-73.97029630569170000000,7H-AM-1006-11,07H,AM,2018-10-06,11,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,false,false
+40.77162974913840000000,-73.97346957680040000000,8E-PM-1008-05,08E,PM,2018-10-08,5,Adult,Gray,Ground Plane,"5, 6, 7 all at same tree trunk base",false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.77078376578590000000,-73.97939520660380000000,4A-PM-1007-03,04A,PM,2018-10-07,3,Adult,Gray,Ground Plane,by rock,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79772574352630000000,-73.95257475169140000000,42F-PM-1017-02,42F,PM,2018-10-17,2,Adult,Gray,Ground Plane,,true,false,false,false,false,playing,false,false,false,false,false,false,true,false
+40.79124054217200000000,-73.95897702066910000000,33E-AM-1014-05,33E,AM,2018-10-14,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78208704969300000000,-73.96427174359660000000,22F-AM-1007-05,22F,AM,2018-10-07,5,Adult,Gray,Above Ground,tree,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.76918016442920000000,-73.97429734204460000000,5F-AM-1007-04,05F,AM,2018-10-07,4,Adult,Gray,Above Ground,rocks,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.79592287798830000000,-73.95024662890840000000,41I-AM-1018-02,41I,AM,2018-10-18,2,Juvenile,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77607995379760000000,-73.97208872755380000000,13D-PM-1018-08,13D,PM,2018-10-18,8,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77783160054640000000,-73.96414623605410000000,18I-PM-1007-09,18I,PM,2018-10-07,9,Adult,Gray,Above Ground,,false,false,true,false,false,canoodling w/ 8,false,false,false,false,false,false,true,false
+40.77203751352720000000,-73.97140573271590000000,9F-PM-1014-04,09F,PM,2018-10-14,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77385351712650000000,-73.96787743147250000000,12H-PM-1007-04,12H,PM,2018-10-07,4,,Gray,,,false,false,false,true,false,mushroom,false,false,false,false,false,false,true,false
+40.77138897297390000000,-73.97259060164740000000,8F-PM-1012-05,08F,PM,2018-10-12,5,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,true,false,false,false
+40.77604738723950000000,-73.97069293412940000000,13E-PM-1008-06,13E,PM,2018-10-08,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77220510113570000000,-73.97013351629840000000,10G-AM-1006-10,10G,AM,2018-10-06,10,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,true,false,false,false,false,false,false
+40.78138291720720000000,-73.96442931957730000000,21F-AM-1018-02,21F,AM,2018-10-18,2,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,true,false,true,false
+40.77340378051010000000,-73.97531406404450000000,9C-AM-1006-02,09C,AM,2018-10-06,2,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.79534758718690000000,-73.96030033002900000000,36B-AM-1013-03,36B,AM,2018-10-13,3,,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.78991178641600000000,-73.95951403486900000000,31E-PM-1006-02,31E,PM,2018-10-06,2,Adult,Gray,Ground Plane,under bushes,false,false,false,true,true,,false,true,false,false,false,false,true,false
+40.77339601289310000000,-73.97527931957440000000,9C-AM-1006-03,09C,AM,2018-10-06,3,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.78378252084440000000,-73.96885746911020000000,21B-AM-1019-04,21B,AM,2018-10-19,4,,,,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.78991518734670000000,-73.95478780253030000000,33I-PM-1006-05,33I,PM,2018-10-06,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77972430330570000000,-73.96584828383100000000,19F-PM-1017-01,19F,PM,2018-10-17,1,Adult,Gray,Ground Plane,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.76945003337770000000,-73.97357503529590000000,6F-PM-1008-06,06F,PM,2018-10-08,6,Adult,Cinnamon,,,false,false,false,false,false,,false,false,false,false,false,false,true,false
+40.78882349597920000000,-73.96245469176490000000,29D-AM-1014-04,29D,AM,2018-10-14,4,Juvenile,Gray,Ground Plane,Rock a,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79852589722900000000,-73.95491352069610000000,42D-PM-1013-03,42D,PM,2018-10-13,3,Adult,Gray,Above Ground,in tree,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77963999558680000000,-73.96481954331920000000,19G-PM-1017-03,19G,PM,2018-10-17,3,Adult,Cinnamon,Ground Plane,,false,false,true,true,false,staring,false,false,false,false,true,false,false,false
+40.77425699361860000000,-73.96617859405310000000,13I-PM-1008-01,13I,PM,2018-10-08,1,Adult,Gray,Above Ground,climbed tree,true,false,true,false,false,,false,false,false,false,false,false,true,false
+40.79043906915530000000,-73.95921030643270000000,32E-PM-1017-10,32E,PM,2018-10-17,10,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,true
+40.78878449046950000000,-73.96644503991210000000,27A-AM-1008-02,27A,AM,2018-10-08,2,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.78626523000820000000,-73.96830410992560000000,24A-AM-1014-01,24A,AM,2018-10-14,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77639856673440000000,-73.97030871607100000000,14E-AM-1008-20,14E,AM,2018-10-08,20,Adult,Gray,Ground Plane,,false,false,false,false,true,walking,false,false,false,false,false,false,true,false
+40.79487099000160000000,-73.95797241199430000000,37D-AM-1018-01,37D,AM,2018-10-18,1,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76723822827810000000,-73.97806596795570000000,1D-PM-1007-06,01D,PM,2018-10-07,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77612028088400000000,-73.97172013787750000000,13D-PM-1018-02,13D,PM,2018-10-18,2,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.79443147338600000000,-73.95812430217220000000,36D-AM-1007-01,36D,AM,2018-10-07,1,Adult,Cinnamon,Ground Plane,,false,false,true,false,true,,false,false,false,false,false,false,false,true
+40.77275081490580000000,-73.97072153948870000000,10G-AM-1006-05,10G,AM,2018-10-06,5,Adult,Gray,Ground Plane,,false,true,false,false,false,chasing (#6),true,false,false,false,false,false,false,false
+40.77010117742070000000,-73.97027212446520000000,7H-AM-1006-15,07H,AM,2018-10-06,15,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79960274286250000000,-73.95701300171590000000,42B-AM-1014-02,42B,AM,2018-10-14,2,Adult,Black,Ground Plane,,false,false,false,false,true,digging,false,false,false,false,false,false,true,false
+40.79552261781990000000,-73.95406523047050000000,39G-PM-1013-05,39G,PM,2018-10-13,5,Adult,Gray,Ground Plane,,false,true,false,false,true,,false,false,false,false,false,false,false,false
+40.77421863919350000000,-73.96978555731370000000,12F-PM-1007-05,12F,PM,2018-10-07,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.76992326944400000000,-73.96909681608190000000,8I-AM-1006-08,08I,AM,2018-10-06,8,Adult,Gray,Above Ground,tree,false,false,false,false,false,,true,true,false,false,false,false,false,false
+40.77511103540340000000,-73.97014812002980000000,12F-AM-1020-06,12F,AM,2018-10-20,6,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.79870317680010000000,-73.95448281418600000000,42D-PM-1013-01,42D,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,false,true,watching passers-by,false,false,false,false,false,true,true,false
+40.79565996087980000000,-73.95694033658470000000,38D-PM-1006-01,38D,PM,2018-10-06,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.79076540060190000000,-73.96412932837340000000,30B-AM-1007-03,30B,AM,2018-10-07,3,Adult,Gray,Above Ground,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77459349477060000000,-73.97143033156990000000,11E-AM-1013-04,11E,AM,2018-10-13,4,Adult,Black,Ground Plane,,false,false,false,false,true,burying,false,false,false,false,false,false,true,false
+40.78012138436280000000,-73.97217978245760000000,16A-PM-1019-07,16A,PM,2018-10-19,7,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,true,false,false
+40.76977583330990000000,-73.97899520296370000000,4B-AM-1010-03,04B,AM,2018-10-10,3,Juvenile,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77561117183550000000,-73.96665265547720000000,14H-AM-1007-02,14H,AM,2018-10-07,2,Juvenile,Gray,Ground Plane,,false,false,false,false,false,sitting,false,false,false,false,false,false,true,false
+40.77288133502450000000,-73.96774231546820000000,11I-AM-1012-02,11I,AM,2018-10-12,2,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.76987209433700000000,-73.97121338569600000000,7H-AM-1006-04,07H,AM,2018-10-06,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78427535176480000000,-73.96665210942550000000,23C-PM-1014-02,23C,PM,2018-10-14,2,Adult,Gray,Ground Plane,"in bushes, then ran across path",true,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79545512381460000000,-73.96157511485950000000,36A-AM-1018-01,36A,AM,2018-10-18,1,Juvenile,Gray,Above Ground,,false,false,false,true,false,eating (red berries),false,false,false,false,false,false,true,false
+40.76763210606690000000,-73.97780296909000000000,2D-AM-1007-06,02D,AM,2018-10-07,6,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77190410184400000000,-73.97842647249900000000,6A-PM-1012-04,06A,PM,2018-10-12,4,Adult,Cinnamon,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,false
+40.78446519464150000000,-73.96884708312690000000,22A-AM-1008-03,22A,AM,2018-10-08,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77019835755110000000,-73.97030108562240000000,8H-PM-1014-06,08H,PM,2018-10-14,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76831022956630000000,-73.97768547979160000000,3D-AM-1006-04,03D,AM,2018-10-06,4,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.79850039877840000000,-73.95883757450500000000,40A-PM-1014-06,40A,PM,2018-10-14,6,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.76774556339320000000,-73.98010073275060000000,1B-PM-1019-06,01B,PM,2018-10-19,6,Juvenile,Cinnamon,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.79820735094200000000,-73.95484307416050000000,41E-AM-1007-06,41E,AM,2018-10-07,6,Adult,Gray,Above Ground,tree,false,false,true,false,true,,false,false,false,false,false,false,false,false
+40.79538110039860000000,-73.96021668769790000000,36B-AM-1013-04,36B,AM,2018-10-13,4,,Black,Above Ground,Moved 20+ feet high above top of tree limb,false,true,false,false,false,,false,false,false,false,false,false,false,true
+40.77913651829800000000,-73.96694329295730000000,18F-AM-1014-01,18F,AM,2018-10-14,1,Adult,Gray,Above Ground,Low tree,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77645800362870000000,-73.96572880550110000000,16H-PM-1014-04,16H,PM,2018-10-14,4,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.79740866312670000000,-73.95683055130170000000,40C-PM-1006-05,40C,PM,2018-10-06,5,Adult,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77615320885210000000,-73.97087984961320000000,13D-AM-1014-06,13D,AM,2018-10-14,6,Adult,Gray,Ground Plane,,true,false,false,true,false,,false,false,false,false,false,false,false,true
+40.78016616857120000000,-73.96833124530110000000,18D-PM-1017-01,18D,PM,2018-10-17,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79158570302950000000,-73.95983407835720000000,33D-PM-1006-02,33D,PM,2018-10-06,2,,Gray,Above Ground,,false,true,false,false,false,,false,false,false,false,false,false,false,true
+40.79330035446850000000,-73.95334760207360000000,37H-PM-1006-02,37H,PM,2018-10-06,2,Adult,Gray,Ground Plane,tree,true,false,true,false,true,,true,false,false,false,false,false,false,true
+40.77426959120000000000,-73.96773873366670000000,12H-PM-1007-02,12H,PM,2018-10-07,2,Adult,Gray,Above Ground,in tree,false,false,true,true,false,peanuts,false,false,false,false,false,false,true,false
+40.78143718348370000000,-73.96496110896850000000,21F-AM-1018-05,21F,AM,2018-10-18,5,Adult,Cinnamon,Above Ground,,false,false,true,false,false,,false,false,false,false,true,false,false,true
+40.77295214332350000000,-73.97448355630860000000,9D-AM-1008-01,09D,AM,2018-10-08,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,false,true
+40.76552318836780000000,-73.97469187620760000000,1G-AM-1006-02,01G,AM,2018-10-06,2,Juvenile,Gray,Above Ground,,false,false,true,false,true,,false,false,false,false,true,false,true,false
+40.77506707020930000000,-73.97142895923920000000,12E-PM-1018-04,12E,PM,2018-10-18,4,Adult,Cinnamon,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77767821149810000000,-73.96385907683960000000,18I-AM-1017-02,18I,AM,2018-10-17,2,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,true,false,false,true
+40.77600151292980000000,-73.96531426368910000000,15I-AM-1008-04,15I,AM,2018-10-08,4,Adult,Gray,Ground Plane,,false,false,true,true,false,,false,false,false,false,false,false,false,true
+40.79396537338980000000,-73.95860981702410000000,35D-AM-1019-01,35D,AM,2018-10-19,1,,,Above Ground,"on tree, blue jays gathering nearby",false,false,false,false,false,,true,false,false,false,false,false,false,false
+40.79202551894670000000,-73.96310068980700000000,32B-AM-1017-02,32B,AM,2018-10-17,2,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,true,false,false,true
+40.76838133583430000000,-73.97683571738610000000,3D-PM-1010-12,03D,PM,2018-10-10,12,Adult,Cinnamon,Ground Plane,,true,true,false,false,true,,false,true,false,false,false,false,false,false
+40.79437241086260000000,-73.96014864831640000000,35C-PM-1013-02,35C,PM,2018-10-13,2,,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,false,false
+40.79644170849850000000,-73.95974183666640000000,37B-PM-1013-05,37B,PM,2018-10-13,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79854049655820000000,-73.95495986882200000000,41D-PM-1014-03,41D,PM,2018-10-14,3,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77818570030500000000,-73.96878474106560000000,16E-AM-1014-09,16E,AM,2018-10-14,9,Adult,Gray,Above Ground,In tree,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77916836662150000000,-73.96590102384170000000,18G-PM-1013-02,18G,PM,2018-10-13,2,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.77206596960670000000,-73.97494466297060000000,7D-PM-1010-01,07D,PM,2018-10-10,1,Adult,Gray,Ground Plane,outside fenced hectare,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77141450863610000000,-73.97132287667100000000,8G-PM-1017-01,08G,PM,2018-10-17,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76904534943830000000,-73.97738211356110000000,4C-PM-1010-06,04C,PM,2018-10-10,6,Adult,Gray,Ground Plane,behind playground benches,false,false,false,true,false,,false,false,false,false,true,false,false,true
+40.76782015359680000000,-73.97931033408690000000,1C-PM-1013-06,01C,PM,2018-10-13,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77623499240810000000,-73.97017314292100000000,14E-AM-1008-19,14E,AM,2018-10-08,19,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.79637592405040000000,-73.95252616438600000000,40G-AM-1007-02,40G,AM,2018-10-07,2,Juvenile,Cinnamon,Above Ground,,true,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77418710251150000000,-73.96808337297720000000,12H-PM-1007-08,12H,PM,2018-10-07,8,,,Above Ground,in tree,false,false,false,false,false,,false,false,false,false,false,false,false,true
+40.78174012920830000000,-73.96326460496220000000,22G-AM-1018-05,22G,AM,2018-10-18,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78396118408840000000,-73.96472842066440000000,23E-PM-1006-01,23E,PM,2018-10-06,1,Adult,Gray,Above Ground,on a tree,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.78209366282020000000,-73.96352907511830000000,22G-AM-1018-02,22G,AM,2018-10-18,2,Adult,Gray,Ground Plane,,true,false,true,false,false,,true,false,false,false,false,false,false,true
+40.77865456590720000000,-73.96963607564530000000,16D-PM-1010-03,16D,PM,2018-10-10,3,Adult,Gray,Above Ground,,false,false,true,true,false,,false,false,false,false,false,false,true,false
+40.77690969576160000000,-73.97091043803230000000,14D-AM-1014-16,14D,AM,2018-10-14,16,Adult,Gray,Ground Plane,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77247869616190000000,-73.96854290608390000000,11H-AM-1010-05,11H,AM,2018-10-10,5,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.78030111243820000000,-73.96525847497580000000,19F-PM-1017-04,19F,PM,2018-10-17,4,Adult,Gray,Ground Plane,,false,true,true,false,false,,false,false,false,false,true,false,false,true
+40.79081917821730000000,-73.96504995070110000000,30A-AM-1010-01,30A,AM,2018-10-10,1,Adult,Cinnamon,Above Ground,,true,false,true,false,false,,false,false,false,false,true,false,false,true
+40.76686964117650000000,-73.97723967285450000000,2E-AM-1010-02,02E,AM,2018-10-10,2,Adult,Gray,Ground Plane,,true,false,false,true,false,,false,false,false,false,false,false,true,false
+40.79762584586040000000,-73.95611416623090000000,40D-PM-1013-05,40D,PM,2018-10-13,5,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77245105583270000000,-73.96828032410070000000,11H-AM-1010-04,11H,AM,2018-10-10,4,,Gray,,,false,false,false,false,true,,false,false,false,false,true,false,false,false
+40.79784319802040000000,-73.95531137710980000000,41D-AM-1014-05,41D,AM,2018-10-14,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77060353015420000000,-73.97614406279660000000,6D-PM-1020-04,06D,PM,2018-10-20,4,,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77313474522450000000,-73.97468021940120000000,9C-PM-1006-01,09C,PM,2018-10-06,1,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,true
+40.79528759542970000000,-73.96176123887030000000,35A-AM-1014-04,35A,AM,2018-10-14,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77843530437140000000,-73.97134875915770000000,15C-PM-1017-03,15C,PM,2018-10-17,3,Adult,Black,Above Ground,running across overpass,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77680010080830000000,-73.97013107532770000000,14E-AM-1008-06,14E,AM,2018-10-08,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77949633542540000000,-73.97184744809190000000,16B-AM-1014-01,16B,AM,2018-10-14,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77562574580360000000,-73.97568104536060000000,11A-PM-1013-01,11A,PM,2018-10-13,1,Adult,Cinnamon,Ground Plane,,false,false,false,true,false,eating (osage orange),false,false,false,false,false,false,true,false
+40.78997026288350000000,-73.95474232902760000000,33I-PM-1006-09,33I,PM,2018-10-06,9,Adult,Black,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.79511240769460000000,-73.95596779637270000000,38E-AM-1010-07,38E,AM,2018-10-10,7,Adult,Gray,Above Ground,branches,true,true,false,false,false,chasing and being chased by #6,false,false,false,false,true,false,false,true
+40.79801212266350000000,-73.95846960832840000000,39B-PM-1014-03,39B,PM,2018-10-14,3,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79335375846240000000,-73.95490824811520000000,36G-PM-1012-01,36G,PM,2018-10-12,1,Adult,Gray,Ground Plane,,false,false,false,false,false,crossing east drive,false,false,false,false,false,false,false,false
+40.77721355873080000000,-73.97144654932570000000,14C-PM-1006-02,14C,PM,2018-10-06,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,false,true
+40.78154458411950000000,-73.96438253816140000000,21F-PM-1018-03,21F,PM,2018-10-18,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.78113023979120000000,-73.96254162008770000000,21H-AM-1017-02,21H,AM,2018-10-17,2,Adult,Cinnamon,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.78269384899300000000,-73.96385260620930000000,22F-AM-1007-02,22F,AM,2018-10-07,2,Adult,Gray,Ground Plane,,false,false,false,false,false,standing,false,false,false,false,false,false,true,false
+40.76881479603700000000,-73.97335194581800000000,5G-PM-1010-03,05G,PM,2018-10-10,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77659946658800000000,-73.96852273107350000000,15F-AM-1007-02,15F,AM,2018-10-07,2,Adult,Gray,Above Ground,,true,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77608591383800000000,-73.97216700424340000000,13D-PM-1018-09,13D,PM,2018-10-18,9,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76882724929610000000,-73.97921538931460000000,3B-AM-1010-01,03B,AM,2018-10-10,1,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79530806737060000000,-73.95793352754860000000,37D-PM-1014-05,37D,PM,2018-10-14,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77667203465760000000,-73.97041661948150000000,14E-AM-1008-07,14E,AM,2018-10-08,7,Adult,Gray,Ground Plane,,false,false,false,false,true,walking,false,false,false,false,false,false,true,false
+40.79857341057290000000,-73.95730576862410000000,40B-PM-1014-01,40B,PM,2018-10-14,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79921945752930000000,-73.95819824864690000000,41A-PM-1007-03,41A,PM,2018-10-07,3,Adult,Gray,Above Ground,,true,false,true,false,false,,false,false,false,false,true,false,false,false
+40.76591318651720000000,-73.97246751547100000000,3I-PM-1013-05,03I,PM,2018-10-13,5,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77829139257270000000,-73.97003307121190000000,16D-PM-1010-06,16D,PM,2018-10-10,6,Adult,Gray,Ground Plane,,true,false,false,false,true,walking,false,false,false,false,false,false,false,false
+40.79466797558160000000,-73.95700862122850000000,37E-PM-1006-08,37E,PM,2018-10-06,8,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79240823303280000000,-73.96154026296550000000,33C-AM-1012-02,33C,AM,2018-10-12,2,Adult,Gray,Above Ground,tree branches,false,true,true,false,false,,false,false,false,false,false,false,true,false
+40.77236915874330000000,-73.97083645835910000000,10F-AM-1007-01,10F,AM,2018-10-07,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,true,false,false,false,false
+40.77362416482600000000,-73.97569726476360000000,9B-PM-1013-04,09B,PM,2018-10-13,4,Juvenile,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,true,false,true,false
+40.76714999975270000000,-73.97994414934040000000,1C-AM-1012-01,01C,AM,2018-10-12,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,true,false,false,false,true
+40.77011638926860000000,-73.97090406237770000000,7H-PM-1006-03,07H,PM,2018-10-06,3,Adult,Gray,Above Ground,tree,true,false,true,false,false,,false,false,false,true,false,false,true,false
+40.76736182847820000000,-73.97452277697880000000,3F-AM-1006-09,03F,AM,2018-10-06,9,Juvenile,Gray,Ground Plane,in grass by light post,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78336596891940000000,-73.96595499635160000000,22D-PM-1012-05,22D,PM,2018-10-12,5,Adult,Gray,,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77046712959410000000,-73.97636222692720000000,5C-PM-1010-10,05C,PM,2018-10-10,10,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,true,false,false
+40.77897283819120000000,-73.96746884335830000000,17E-AM-1017-06,17E,AM,2018-10-17,6,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77170740444660000000,-73.97063600052750000000,9G-PM-1007-05,09G,PM,2018-10-07,5,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,true
+40.76683000560940000000,-73.97833669038290000000,1D-PM-1007-03,01D,PM,2018-10-07,3,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.79451263584650000000,-73.96220476777010000000,35A-AM-1014-06,35A,AM,2018-10-14,6,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.79651700721400000000,-73.94972176745550000000,42I-PM-1014-03,42I,PM,2018-10-14,3,,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.78388701590570000000,-73.96713064312110000000,22C-PM-1006-05,22C,PM,2018-10-06,5,Juvenile,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.76968708062290000000,-73.97867142073070000000,4B-PM-1018-01,04B,PM,2018-10-18,1,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,true,false,false
+40.77433918837620000000,-73.97509925643620000000,10B-PM-1014-03,10B,PM,2018-10-14,3,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.79804602040410000000,-73.95562181992580000000,41D-PM-1014-01,41D,PM,2018-10-14,1,Adult,Gray,Ground Plane,,false,false,false,true,false,"digging,drinking",false,false,false,false,false,false,false,true
+40.78674822113490000000,-73.96777794084640000000,25A-AM-1013-02,25A,AM,2018-10-13,2,,Gray,Above Ground,BIG TREE,false,true,false,false,false,chasing #3,false,false,false,true,false,false,true,false
+40.79500331503850000000,-73.96123985097820000000,35A-PM-1013-12,35A,PM,2018-10-13,12,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,true,false,false,false,true
+40.76644881753840000000,-73.97205537535480000000,3I-AM-1010-04,03I,AM,2018-10-10,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77877801933580000000,-73.97001482484020000000,16D-PM-1010-04,16D,PM,2018-10-10,4,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.76850791496920000000,-73.97891260886060000000,2C-PM-1013-08,02C,PM,2018-10-13,8,Adult,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,true,false,false
+40.77236663821250000000,-73.97718439122290000000,7B-AM-1008-01,07B,AM,2018-10-08,1,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.78276982207030000000,-73.96465974521280000000,22F-AM-1007-07,22F,AM,2018-10-07,7,Juvenile,Cinnamon,Above Ground,,false,false,true,false,false,,false,false,false,false,true,false,false,false
+40.77170860907820000000,-73.97826438139000000000,6A-AM-1006-04,06A,AM,2018-10-06,4,Adult,Gray,Ground Plane,,false,true,false,false,true,,false,false,false,false,true,false,false,false
+40.77182602883380000000,-73.97851333014260000000,6A-PM-1012-05,06A,PM,2018-10-12,5,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79430865304360000000,-73.95433237868880000000,37G-PM-1007-03,37G,PM,2018-10-07,3,Adult,Gray,Above Ground,,false,false,false,true,false,"lying on belly on branch,eating big nut",false,false,false,false,false,false,false,false
+40.77609428724880000000,-73.97122567652830000000,13D-PM-1018-13,13D,PM,2018-10-18,13,Adult,Gray,Ground Plane,,false,false,false,false,true,digging,false,false,false,false,false,false,true,false
+40.79181505680460000000,-73.95933528061750000000,33E-AM-1014-02,33E,AM,2018-10-14,2,Juvenile,Black,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77819167806210000000,-73.97274886407360000000,14B-PM-1014-06,14B,PM,2018-10-14,6,Juvenile,Gray,Ground Plane,,false,false,false,false,false,watching me,false,false,false,false,false,true,false,false
+40.77071676718650000000,-73.97428045523830000000,7E-PM-1013-05,07E,PM,2018-10-13,5,Adult,Gray,Ground Plane,On rocks,false,false,false,true,true,,false,false,false,false,true,false,true,false
+40.77438835762470000000,-73.97693194503480000000,9A-AM-1013-11,09A,AM,2018-10-13,11,Juvenile,Gray,Ground Plane,foot of tree,true,true,false,false,false,,false,false,false,false,false,false,true,false
+40.77483009912870000000,-73.97182708203470000000,11D-AM-1010-06,11D,AM,2018-10-10,6,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.78029720014690000000,-73.96981966711610000000,18C-PM-1018-03,18C,PM,2018-10-18,3,Juvenile,Gray,Above Ground,,true,true,false,false,false,,false,false,false,false,false,false,false,true
+40.79209497883580000000,-73.95302635524890000000,36I-PM-1007-05,36I,PM,2018-10-07,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.76829218423250000000,-73.98082020885030000000,1A-PM-1014-02,01A,PM,2018-10-14,2,Adult,Cinnamon,Above Ground,,false,true,false,false,false,,false,false,false,false,false,false,false,false
+40.79769853858350000000,-73.95222916034050000000,42G-PM-1014-01,42G,PM,2018-10-14,1,Adult,Gray,Above Ground,,false,false,true,false,true,,false,false,true,false,false,false,false,true
+40.77094135678590000000,-73.96857515954850000000,9I-PM-1010-07,09I,PM,2018-10-10,7,Adult,Gray,Above Ground,ran up tree,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77603458357300000000,-73.97215923784180000000,12C-AM-1013-02,12C,AM,2018-10-13,2,Adult,Gray,Ground Plane,,false,true,false,false,false,,true,false,false,false,false,false,true,false
+40.79420122504500000000,-73.95409085130750000000,37G-PM-1007-04,37G,PM,2018-10-07,4,,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79345702944690000000,-73.95739300799180000000,35E-AM-1020-03,35E,AM,2018-10-20,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77157261593830000000,-73.97175802286640000000,8F-PM-1012-01,08F,PM,2018-10-12,1,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.79085407519830000000,-73.95477117968230000000,34I-PM-1010-06,34I,PM,2018-10-10,6,Adult,Gray,,,false,false,false,false,true,,false,false,false,false,true,false,false,false
+40.79131192235840000000,-73.95896759955170000000,33E-AM-1014-09,33E,AM,2018-10-14,9,Juvenile,Black,Above Ground,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.77820556881130000000,-73.96987620231460000000,16D-PM-1010-09,16D,PM,2018-10-10,9,Adult,Gray,Ground Plane,,false,true,false,false,false,,true,false,false,false,false,false,true,false
+40.77513428707050000000,-73.96715495660660000000,14H-AM-1007-01,14H,AM,2018-10-07,1,Adult,Gray,Above Ground,top of tree,true,false,false,false,false,jumping between branches,false,false,false,false,false,false,true,false
+40.77428131499570000000,-73.96793990973820000000,13H-PM-1010-09,13H,PM,2018-10-10,9,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78913307271700000000,-73.96294201136220000000,29C-AM-1007-03,29C,AM,2018-10-07,3,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77379115598670000000,-73.96884668746050000000,12G-PM-1007-05,12G,PM,2018-10-07,5,,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77796927771930000000,-73.96424119904320000000,18H-PM-1014-03,18H,PM,2018-10-14,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,true,false
+40.77587431138170000000,-73.96532790698880000000,15I-AM-1008-02,15I,AM,2018-10-08,2,Adult,Gray,Above Ground,on fence,false,false,false,true,false,,false,false,false,false,false,false,false,true
+40.79909280624350000000,-73.95569372182520000000,42C-AM-1007-04,42C,AM,2018-10-07,4,Adult,Gray,Ground Plane,,false,false,false,false,false,walking,false,false,false,false,false,false,true,false
+40.79527650222410000000,-73.95588090646480000000,38E-PM-1014-03,38E,PM,2018-10-14,3,,Gray,Ground Plane,THICK UNDERGROWTH,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79702712824100000000,-73.95797689613900000000,39C-AM-1017-04,39C,AM,2018-10-17,4,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,true
+40.77075615329490000000,-73.97698874738520000000,5C-PM-1010-04,05C,PM,2018-10-10,4,Adult,Gray,Ground Plane,,true,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77526146380230000000,-73.96559053009230000000,14I-PM-1018-06,14I,PM,2018-10-18,6,Adult,Cinnamon,Above Ground,,true,false,true,false,false,,false,false,false,false,true,false,true,false
+40.79099917334350000000,-73.95888860837930000000,32E-PM-1017-01,32E,PM,2018-10-17,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77388795454120000000,-73.97548367967060000000,9B-PM-1013-01,09B,PM,2018-10-13,1,Juvenile,Gray,Ground Plane,,false,false,false,false,false,playing,false,false,false,false,true,false,true,false
+40.78785023380310000000,-73.96629396307220000000,26B-AM-1010-01,26B,AM,2018-10-10,1,Adult,Gray,Ground Plane,running across bridle path,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.79093513935050000000,-73.96130519573060000000,31D-AM-1014-02,31D,AM,2018-10-14,2,Juvenile,Gray,Ground Plane,Undergrowth,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77060651398900000000,-73.97642353733220000000,5C-PM-1010-11,05C,PM,2018-10-10,11,Adult,Cinnamon,Ground Plane,,false,false,true,false,true,,false,false,false,false,false,false,false,false
+40.77875032202420000000,-73.97050538215770000000,16C-AM-1014-04,16C,AM,2018-10-14,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77028151225400000000,-73.97637911214380000000,5D-PM-1018-04,05D,PM,2018-10-18,4,Adult,Gray,Ground Plane,,false,true,false,false,false,chasing (dog chasing),false,false,false,false,false,false,false,true
+40.79524667618320000000,-73.96001657854860000000,36B-PM-1013-03,36B,PM,2018-10-13,3,Adult,Gray,Ground Plane,,true,true,false,false,false,,false,false,false,false,true,false,false,true
+40.79800809111150000000,-73.95737241332640000000,40C-AM-1017-02,40C,AM,2018-10-17,2,Adult,Gray,Ground Plane,,false,true,false,true,false,chasing (#1),false,false,false,false,false,false,false,true
+40.78556544054470000000,-73.95801093570870000000,28I-AM-1013-01,28I,AM,2018-10-13,1,Adult,Gray,Ground Plane,Jumped onto path & then back into brush,false,false,false,false,false,stood on fence,false,false,false,false,false,false,false,true
+40.79501574891030000000,-73.95488778301360000000,38F-AM-1018-04,38F,AM,2018-10-18,4,Adult,Gray,Ground Plane,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.76611998894310000000,-73.97673144350270000000,1F-AM-1010-01,01F,AM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.78753929577220000000,-73.96732436999180000000,26A-AM-1014-01,26A,AM,2018-10-14,1,,Gray,Ground Plane,,false,true,false,false,true,,false,false,false,false,false,false,false,false
+40.79073477083530000000,-73.95963759070380000000,32E-AM-1007-05,32E,AM,2018-10-07,5,Adult,Black,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77867495967740000000,-73.96732355553210000000,17F-PM-1020-04,17F,PM,2018-10-20,4,Juvenile,Gray,Above Ground,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.77551198106780000000,-73.97575361873190000000,11A-PM-1013-03,11A,PM,2018-10-13,3,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77892343972490000000,-73.96750474803080000000,17E-AM-1017-01,17E,AM,2018-10-17,1,Adult,Gray,Ground Plane,Pond area,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78806179638680000000,-73.95627652880040000000,31I-PM-1019-02,31I,PM,2018-10-19,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78924003949410000000,-73.95585895296080000000,32H-PM-1006-02,32H,PM,2018-10-06,2,,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77161845050020000000,-73.97855365291360000000,6A-PM-1012-07,06A,PM,2018-10-12,7,Adult,Cinnamon,Ground Plane,elevated ground,false,true,false,false,true,,false,false,false,false,false,false,true,false
+40.78035881224090000000,-73.97190362174460000000,17A-AM-1017-01,17A,AM,2018-10-17,1,Adult,Gray,Above Ground,ground & tree,true,false,true,false,true,,false,false,false,false,true,false,false,true
+40.79756854709630000000,-73.95683822792330000000,40C-AM-1017-07,40C,AM,2018-10-17,7,Adult,Gray,Ground Plane,,false,false,false,false,true,digging,false,false,false,false,false,false,true,false
+40.77370921391400000000,-73.97673020673700000000,8A-PM-1014-01,08A,PM,2018-10-14,1,Adult,Gray,Ground Plane,,false,false,true,true,false,,true,false,false,false,false,false,false,true
+40.77613114658570000000,-73.97221256300400000000,13C-PM-1019-05,13C,PM,2018-10-19,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,true,true,true,false
+40.76923774014670000000,-73.97581523225870000000,4E-PM-1008-03,04E,PM,2018-10-08,3,Adult,Gray,,,false,true,false,false,false,chasing #4,false,false,false,false,false,false,false,false
+40.79798003954330000000,-73.95409229221400000000,41E-PM-1013-05,41E,PM,2018-10-13,5,Juvenile,Gray,Above Ground,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.76637034045460000000,-73.97347626492980000000,3H-AM-1008-05,03H,AM,2018-10-08,5,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,true,false,false,false
+40.79800412717000000000,-73.95394000282360000000,41E-AM-1007-02,41E,AM,2018-10-07,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.79687745996540000000,-73.95548910035430000000,40E-AM-1014-03,40E,AM,2018-10-14,3,Adult,Gray,Ground Plane,,false,false,true,false,true,,false,false,false,false,false,false,true,false
+40.76838966655020000000,-73.98096101171710000000,2A-AM-1010-02,02A,AM,2018-10-10,2,,Gray,Above Ground,perched on small fence,false,false,false,true,false,,false,false,false,false,true,false,false,true
+40.76979501417510000000,-73.98016619039320000000,3A-PM-1017-03,03A,PM,2018-10-17,3,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,false,false
+40.78787560675820000000,-73.95700561239530000000,30I-PM-1006-02,30I,PM,2018-10-06,2,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,true,false,false,false,true
+40.77952387842660000000,-73.97034013856840000000,17C-PM-1013-01,17C,PM,2018-10-13,1,Adult,Gray,Ground Plane,then perched on 2-ft high border fencing,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77419080104840000000,-73.97676965915200000000,9A-AM-1013-04,09A,AM,2018-10-13,4,Juvenile,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.77316710492460000000,-73.97287838020670000000,9E-PM-1014-02,09E,PM,2018-10-14,2,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.79875785411230000000,-73.95537267145040000000,41D-AM-1014-02,41D,AM,2018-10-14,2,Adult,Gray,Above Ground,,false,false,false,false,false,jumping,false,false,false,false,false,false,true,false
+40.77590139230340000000,-73.96790088496770000000,14G-AM-1012-02,14G,AM,2018-10-12,2,,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.76934993260950000000,-73.97045758489260000000,7H-PM-1006-09,07H,PM,2018-10-06,9,Adult,Black,Ground Plane,by tree,false,false,false,true,true,,false,false,false,true,false,true,false,true
+40.79626845732600000000,-73.95726869794120000000,38D-AM-1017-03,38D,AM,2018-10-17,3,Adult,Gray,Ground Plane,,false,false,false,false,true,digging,false,false,false,false,false,false,false,false
+40.78259663323670000000,-73.96382989975540000000,22F-AM-1007-03,22F,AM,2018-10-07,3,Adult,Cinnamon,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.76805608716950000000,-73.97007590739730000000,5I-AM-1010-01,05I,AM,2018-10-10,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77610863524380000000,-73.97218547900380000000,12C-AM-1013-01,12C,AM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,false,true,burying,false,false,false,false,false,false,true,false
+40.76823902825810000000,-73.97664405898360000000,3E-AM-1006-02,03E,AM,2018-10-06,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,false,true
+40.76642482835660000000,-73.97251748685560000000,3H-PM-1014-07,03H,PM,2018-10-14,7,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79668231145080000000,-73.95636612568750000000,39D-AM-1008-03,39D,AM,2018-10-08,3,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77051626161990000000,-73.96870277827260000000,9I-AM-1014-09,09I,AM,2018-10-14,9,Adult,Gray,Above Ground,,false,false,true,false,true,,false,false,false,false,false,false,false,false
+40.78838298515180000000,-73.96245387330370000000,28D-AM-1012-04,28D,AM,2018-10-12,4,Adult,Cinnamon,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77268737606870000000,-73.97069037405470000000,10G-AM-1006-07,10G,AM,2018-10-06,7,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,true,false,true,false
+40.76787234710070000000,-73.98020792598660000000,1B-AM-1012-10,01B,AM,2018-10-12,10,Juvenile,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,true,false,false
+40.79101576761190000000,-73.96023986909460000000,32D-PM-1006-04,32D,PM,2018-10-06,4,Adult,Gray,Above Ground,,false,false,false,true,false,,false,false,false,false,true,false,true,false
+40.76769426396970000000,-73.97092440069560000000,5I-AM-1010-02,05I,AM,2018-10-10,2,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.79057940788430000000,-73.95887081034860000000,32F-PM-1008-05,32F,PM,2018-10-08,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79273012144760000000,-73.95841781352600000000,34E-PM-1006-01,34E,PM,2018-10-06,1,Adult,Gray,Above Ground,,false,false,false,false,false,sitting and watching on a tree,false,false,false,false,false,false,true,false
+40.76751787975460000000,-73.97798119677880000000,2D-AM-1007-01,02D,AM,2018-10-07,1,Adult,Gray,Ground Plane,,true,false,true,false,false,,false,false,false,false,false,false,false,false
+40.76830347390690000000,-73.97598306509570000000,3E-AM-1006-01,03E,AM,2018-10-06,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.76821871444320000000,-73.97102074385380000000,5I-AM-1010-05,05I,AM,2018-10-10,5,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,true,false,true,false
+40.76980343149930000000,-73.97991559660860000000,3A-PM-1017-08,03A,PM,2018-10-17,8,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,true,false,false
+40.76971678280030000000,-73.97744758535500000000,4C-PM-1010-11,04C,PM,2018-10-10,11,Adult,Gray,Ground Plane,,true,false,false,true,false,,false,false,false,false,false,false,false,false
+40.79712353336990000000,-73.95501848906900000000,40E-PM-1017-02,40E,PM,2018-10-17,2,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.79580978493690000000,-73.95640114211220000000,38E-AM-1010-02,38E,AM,2018-10-10,2,Adult,Gray,Ground Plane,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.78890405033160000000,-73.95528808927010000000,32I-AM-1013-04,32I,AM,2018-10-13,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,true,false
+40.78028209438630000000,-73.96518283835920000000,19F-PM-1017-06,19F,PM,2018-10-17,6,Adult,Gray,Ground Plane,,true,true,true,false,false,,false,false,false,false,true,true,false,false
+40.77598155661230000000,-73.97076836215840000000,13E-AM-1017-11,13E,AM,2018-10-17,11,Adult,Gray,Above Ground,on/in log,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77659735097210000000,-73.96910573260880000000,14F-PM-1012-07,14F,PM,2018-10-12,7,Adult,Cinnamon,Ground Plane,,true,true,false,true,true,,false,false,false,false,false,false,true,false
+40.77981606375610000000,-73.96581818130140000000,19F-AM-1007-01,19F,AM,2018-10-07,1,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77918351221470000000,-73.96957456720330000000,17D-AM-1008-06,17D,AM,2018-10-08,6,,,Above Ground,"high in tree, couldn't see it, only heard it",false,false,false,false,false,,true,false,false,false,false,false,false,false
+40.78256385373620000000,-73.96369718436650000000,22F-AM-1007-04,22F,AM,2018-10-07,4,Adult,Cinnamon,,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79579813108970000000,-73.95807856006170000000,37C-PM-1013-01,37C,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77629121424570000000,-73.97059538145500000000,13E-PM-1008-05,13E,PM,2018-10-08,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77445458358500000000,-73.97679491411230000000,9A-PM-1010-01,09A,PM,2018-10-10,1,Adult,,Ground Plane,by large tree in sectioned off area,false,false,true,false,false,i think it climbed the tree when i first saw it.,false,false,false,false,false,false,true,false
+40.78023021927990000000,-73.96959649834540000000,18C-PM-1018-08,18C,PM,2018-10-18,8,Juvenile,Black,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.78404926065520000000,-73.95945293109850000000,26I-PM-1010-04,26I,PM,2018-10-10,4,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,true,false,false
+40.78382474223690000000,-73.96935337217500000000,21A-AM-1019-06,21A,AM,2018-10-19,6,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77823439124170000000,-73.96980327347040000000,16D-AM-1007-02,16D,AM,2018-10-07,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77453097941550000000,-73.96850806398730000000,13G-PM-1008-03,13G,PM,2018-10-08,3,Juvenile,Cinnamon,Above Ground,maple tree,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77576430789730000000,-73.96560981941490000000,15I-AM-1008-05,15I,AM,2018-10-08,5,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77011257732480000000,-73.97046560040200000000,7H-PM-1006-05,07H,PM,2018-10-06,5,Adult,Gray,Ground Plane,"Ran across path to eat behind fence, next to the fence.",true,false,false,true,true,,false,false,false,false,true,false,false,true
+40.79039057870050000000,-73.95855376683820000000,32F-AM-1012-03,32F,AM,2018-10-12,3,Adult,Gray,Above Ground,,false,false,true,false,false,bringing green leaves to nest,false,false,false,false,false,false,false,false
+40.79722543600400000000,-73.95046935442250000000,42H-AM-1019-01,42H,AM,2018-10-19,1,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.77029294286040000000,-73.96912617559360000000,8I-AM-1006-12,08I,AM,2018-10-06,12,Adult,Gray,Above Ground,tree,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.79606634425730000000,-73.95292302079080000000,40G-PM-1013-06,40G,PM,2018-10-13,6,Juvenile,Gray,Ground Plane,along the road,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.78089996109140000000,-73.96385854925100000000,21G-AM-1014-03,21G,AM,2018-10-14,3,Adult,Gray,Above Ground,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.79598106223420000000,-73.95763044737220000000,38D-AM-1017-05,38D,AM,2018-10-17,5,Adult,Gray,Ground Plane,,true,false,false,true,false,eating (nut),false,false,false,false,false,false,false,true
+40.76792593904480000000,-73.97935655643610000000,2C-AM-1010-09,02C,AM,2018-10-10,9,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.76810196838590000000,-73.97792282876290000000,3D-PM-1010-01,03D,PM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79320141590870000000,-73.95701325709340000000,35F-PM-1012-01,35F,PM,2018-10-12,1,Juvenile,Gray,Ground Plane,,true,false,false,true,true,,false,false,false,true,false,false,true,true
+40.79315606686720000000,-73.96154750380100000000,33B-AM-1010-06,33B,AM,2018-10-10,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79410620086260000000,-73.95928194919680000000,35C-AM-1007-06,35C,AM,2018-10-07,6,Adult,,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79362736369290000000,-73.95193878816920000000,38I-PM-1014-04,38I,PM,2018-10-14,4,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77120621471710000000,-73.96955698970420000000,9H-PM-1018-01,09H,PM,2018-10-18,1,Adult,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77436277567800000000,-73.97679809251240000000,9A-PM-1010-02,09A,PM,2018-10-10,2,Adult,,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77149421962570000000,-73.97361698866550000000,7E-AM-1006-06,07E,AM,2018-10-06,6,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,true,false,false
+40.79818144626500000000,-73.95620080976800000000,40C-AM-1017-06,40C,AM,2018-10-17,6,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77634046569500000000,-73.96915857561910000000,14F-AM-1007-03,14F,AM,2018-10-07,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76915987730170000000,-73.97720265726740000000,4D-PM-1008-14,04D,PM,2018-10-08,14,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76918482148170000000,-73.97454279840890000000,5E-AM-1008-03,05E,AM,2018-10-08,3,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79818988907350000000,-73.95747495718480000000,40C-PM-1006-08,40C,PM,2018-10-06,8,Adult,Gray,Ground Plane,By the main road,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77575305835690000000,-73.96616944634880000000,15H-PM-1008-07,15H,PM,2018-10-08,7,Adult,Gray,Ground Plane,along bottom of rock outcropping,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79052083455490000000,-73.96268812347420000000,30C-AM-1014-01,30C,AM,2018-10-14,1,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,true,false,true,false
+40.78039091994800000000,-73.96698143463260000000,19E-PM-1018-01,19E,PM,2018-10-18,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,true,false,false,true
+40.76667717974420000000,-73.97182620344690000000,4I-PM-1007-02,04I,PM,2018-10-07,2,Adult,Black,Ground Plane,,false,true,false,false,false,,false,false,false,false,false,false,false,false
+40.77282840251950000000,-73.97459537103280000000,8D-AM-1007-07,08D,AM,2018-10-07,7,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.77988635229040000000,-73.96543974847630000000,19F-PM-1017-03,19F,PM,2018-10-17,3,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,true,false,false
+40.79200744626220000000,-73.95329527631060000000,36I-AM-1017-08,36I,AM,2018-10-17,8,Adult,Gray,Ground Plane,,false,true,false,false,false,chasing (#7),false,false,false,false,true,false,false,true
+40.77606200435900000000,-73.96896277910000000000,14F-AM-1007-06,14F,AM,2018-10-07,6,Juvenile,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.77838233112960000000,-73.97330569832500000000,14A-PM-1014-06,14A,PM,2018-10-14,6,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.78099283641700000000,-73.96345632229260000000,21G-PM-1007-04,21G,PM,2018-10-07,4,,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,true,false,false,false,true
+40.79106358100380000000,-73.96029131055780000000,32D-PM-1006-03,32D,PM,2018-10-06,3,Adult,Gray,Above Ground,,false,false,false,true,false,,false,false,false,false,true,false,true,false
+40.76976073080330000000,-73.97760445784460000000,4C-PM-1010-15,04C,PM,2018-10-10,15,Juvenile,Gray,Above Ground,on tree,false,true,false,false,false,chasing #14,false,false,false,false,false,false,true,false
+40.79015067062480000000,-73.96072808016010000000,31D-PM-1006-01,31D,PM,2018-10-06,1,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,true,false,false,false,true
+40.76750560253570000000,-73.97335458025150000000,4G-AM-1006-04,04G,AM,2018-10-06,4,Adult,Black,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77978788094820000000,-73.96950413667220000000,17D-AM-1008-02,17D,AM,2018-10-08,2,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,false,false,false,true
+40.77370045571040000000,-73.97643975502890000000,8B-AM-1007-01,08B,AM,2018-10-07,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,true,false,true,false
+40.77675837186700000000,-73.97149211883720000000,14D-AM-1014-11,14D,AM,2018-10-14,11,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77214349412260000000,-73.97137993656500000000,9F-PM-1014-05,09F,PM,2018-10-14,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78099900985970000000,-73.96601100604160000000,20F-AM-1014-01,20F,AM,2018-10-14,1,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77242785472810000000,-73.97111769994710000000,10F-PM-1019-06,10F,PM,2018-10-19,6,Adult,Gray,Above Ground,Different tree,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.76691018329260000000,-73.97257125887410000000,4H-AM-1006-02,04H,AM,2018-10-06,2,Adult,Gray,Ground Plane,,false,false,true,false,false,climbing (over small wire fence then on the ground),false,false,false,false,false,true,false,true
+40.79224658768130000000,-73.96205974490660000000,33B-PM-1010-10,33B,PM,2018-10-10,10,Adult,Gray,Ground Plane,,false,false,false,false,true,,true,false,false,false,false,false,false,false
+40.79140736327820000000,-73.95834778506340000000,33F-PM-1012-06,33F,PM,2018-10-12,6,Adult,Gray,Ground Plane,,false,true,false,true,true,,true,false,false,false,true,false,false,false
+40.76867911697760000000,-73.97902142534430000000,3B-PM-1007-10,03B,PM,2018-10-07,10,Adult,Gray,Ground Plane,,false,false,false,true,false,hopping,false,false,false,false,false,false,true,false
+40.76740127845410000000,-73.97670169633970000000,2E-PM-1014-02,02E,PM,2018-10-14,2,Adult,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,false,true,false
+40.79373827050560000000,-73.95650357056190000000,36F-AM-1017-04,36F,AM,2018-10-17,4,Juvenile,Gray,Ground Plane,,true,false,false,true,true,,true,false,false,false,false,true,false,true
+40.77763969269970000000,-73.97456876537910000000,13A-PM-1014-02,13A,PM,2018-10-14,2,Adult,Gray,Above Ground,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77722368338160000000,-73.96716405209380000000,16G-AM-1010-02,16G,AM,2018-10-10,2,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79608469031220000000,-73.95914076910000000000,37B-AM-1018-01,37B,AM,2018-10-18,1,Adult,Black,Ground Plane,,true,false,false,false,false,,false,false,false,false,true,false,true,false
+40.77236141577600000000,-73.97714226252740000000,7B-AM-1008-02,07B,AM,2018-10-08,2,Adult,Gray,Above Ground,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.76725313193840000000,-73.97566038461070000000,3F-PM-1013-03,03F,PM,2018-10-13,3,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77736313371170000000,-73.96863045815260000000,15E-PM-1008-01,15E,PM,2018-10-08,1,Adult,Gray,Above Ground,on fallen tree,true,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77743893457480000000,-73.96996720741640000000,15D-AM-1007-07,15D,AM,2018-10-07,7,Adult,Gray,Ground Plane,,false,true,false,false,true,chasing #8,false,false,false,false,false,false,true,false
+40.78158272983030000000,-73.96834799438230000000,20C-PM-1018-01,20C,PM,2018-10-18,1,Juvenile,Gray,Ground Plane,,true,true,false,false,false,,false,false,false,false,false,false,false,false
+40.77418770607050000000,-73.97686176907250000000,9A-PM-1010-03,09A,PM,2018-10-10,3,,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.76724075945590000000,-73.97293786741980000000,4H-AM-1006-04,04H,AM,2018-10-06,4,Adult,Gray,Ground Plane,,false,false,false,false,true,met #3 while foraging and briefly tussled,false,false,false,false,false,false,true,false
+40.79062753577260000000,-73.95632030891050000000,33G-PM-1006-01,33G,PM,2018-10-06,1,Juvenile,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.79912167133280000000,-73.95799418474340000000,41B-PM-1014-02,41B,PM,2018-10-14,2,Adult,Black,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.76965066888610000000,-73.97730791542190000000,4C-AM-1006-02,04C,AM,2018-10-06,2,Juvenile,Gray,Ground Plane,,true,false,false,true,true,,false,false,false,false,true,false,true,false
+40.77248616755040000000,-73.97831852785950000000,7A-AM-1006-03,07A,AM,2018-10-06,3,Adult,Gray,Above Ground,"in trees, then to ground",true,false,true,false,false,jumping,false,false,false,false,false,false,true,false
+40.77503227148200000000,-73.97036216164720000000,12E-AM-1017-08,12E,AM,2018-10-17,8,Adult,Gray,Above Ground,,false,false,false,true,false,chilling,false,false,false,false,false,false,true,false
+40.77627565930150000000,-73.96995111812400000000,14E-AM-1008-17,14E,AM,2018-10-08,17,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.78108425037150000000,-73.97182341595570000000,18A-AM-1012-02,18A,AM,2018-10-12,2,Adult,Gray,Above Ground,,false,false,true,true,true,burying,false,false,false,true,false,false,false,true
+40.77234171734510000000,-73.97506214611100000000,8C-PM-1013-07,08C,PM,2018-10-13,7,,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.78469730966650000000,-73.96792913479560000000,23B-PM-1012-02,23B,PM,2018-10-12,2,Adult,Gray,Ground Plane,,false,true,false,false,true,2/3 were chasing each other,false,false,false,false,true,false,false,true
+40.77178662378260000000,-73.97674554307090000000,6B-PM-1017-06,06B,PM,2018-10-17,6,Adult,Gray,Ground Plane,,true,true,false,false,true,,false,false,false,false,false,false,false,false
+40.77760920782540000000,-73.97466087862990000000,13A-AM-1017-01,13A,AM,2018-10-17,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.78476294732580000000,-73.96797780019000000000,23B-PM-1012-05,23B,PM,2018-10-12,5,Adult,Gray,Above Ground,chain link fence,false,true,true,false,false,,false,false,false,false,false,false,true,false
+40.78348133193520000000,-73.96844631543980000000,21B-AM-1019-02,21B,AM,2018-10-19,2,Adult,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,false,true,false
+40.78053669222310000000,-73.96557346336490000000,20F-AM-1014-02,20F,AM,2018-10-14,2,Adult,Gray,Above Ground,,false,false,true,false,false,pulling leaves,true,false,false,false,false,false,false,false
+40.77432567164960000000,-73.97293949284320000000,11D-AM-1010-01,11D,AM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,true,true,true,,false,false,false,false,false,false,false,true
+40.77378472445800000000,-73.97652191628400000000,9B-AM-1010-01,09B,AM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,true,false,false,false,false,false,false,true
+40.79207733767570000000,-73.95977827620290000000,33D-AM-1017-07,33D,AM,2018-10-17,7,Adult,Black,Ground Plane,,false,false,false,false,true,,false,true,false,true,false,false,true,false
+40.78045061128430000000,-73.96486268100320000000,20G-AM-1018-02,20G,AM,2018-10-18,2,Adult,Gray,Above Ground,Ran up tree,true,false,true,false,false,,true,false,false,false,false,false,false,false
+40.79132410484980000000,-73.95841884610590000000,33E-PM-1012-07,33E,PM,2018-10-12,7,Adult,Gray,Ground Plane,,true,true,false,false,false,,false,false,false,false,false,false,false,false
+40.78834179697460000000,-73.95661891453520000000,31H-PM-1008-01,31H,PM,2018-10-08,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.78769741777820000000,-73.96736036559080000000,26A-PM-1006-03,26A,PM,2018-10-06,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.78992426438470000000,-73.95957577926830000000,31E-PM-1006-01,31E,PM,2018-10-06,1,Adult,Gray,Ground Plane,under bushes,false,false,false,false,true,,false,true,false,false,false,false,true,false
+40.77577042266700000000,-73.96868167953920000000,14F-PM-1012-02,14F,PM,2018-10-12,2,Adult,Gray,Above Ground,,false,false,true,true,false,,false,false,false,false,false,false,true,false
+40.77825296925750000000,-73.96542102635210000000,17G-AM-1018-01,17G,AM,2018-10-18,1,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77899287016600000000,-73.96770548703270000000,17E-AM-1017-03,17E,AM,2018-10-17,3,Adult,Gray,Above Ground,Tree trunk,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77420432340140000000,-73.97453055400080000000,10C-PM-1013-02,10C,PM,2018-10-13,2,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,true,false,true,true
+40.78359471674360000000,-73.96754720642040000000,22C-PM-1006-06,22C,PM,2018-10-06,6,Juvenile,Cinnamon,Above Ground,on tree,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.79231881562770000000,-73.95551603111300000000,35G-AM-1007-01,35G,AM,2018-10-07,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77942799142090000000,-73.97105591137620000000,16C-PM-1018-01,16C,PM,2018-10-18,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.78678552944900000000,-73.96776542897570000000,25A-AM-1013-03,25A,AM,2018-10-13,3,,Gray,Above Ground,BIG TREE,false,false,false,false,false,being chased by #2,false,false,false,false,false,false,true,false
+40.78232623690740000000,-73.96496580992930000000,22F-PM-1014-03,22F,PM,2018-10-14,3,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,true,false
+40.79303659398650000000,-73.96194174326850000000,33B-PM-1010-12,33B,PM,2018-10-10,12,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.79276445945130000000,-73.95329659523600000000,36I-AM-1017-03,36I,AM,2018-10-17,3,Adult,Gray,Ground Plane,,true,false,false,true,true,,false,false,false,false,false,false,true,false
+40.76583767292340000000,-73.97251575343560000000,2I-PM-1006-02,02I,PM,2018-10-06,2,Adult,Gray,Ground Plane,,true,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77428566960930000000,-73.96874767031170000000,12G-AM-1012-01,12G,AM,2018-10-12,1,Adult,Cinnamon,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.78725547009950000000,-73.96750231387030000000,25A-PM-1007-01,25A,PM,2018-10-07,1,Adult,Cinnamon,Above Ground,tree,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77333038538000000000,-73.97450405175020000000,9C-PM-1006-06,09C,PM,2018-10-06,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77094288725330000000,-73.97726359111190000000,6B-PM-1017-03,06B,PM,2018-10-17,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77410182743120000000,-73.97301156879640000000,10D-AM-1008-05,10D,AM,2018-10-08,5,Juvenile,Gray,Above Ground,,false,false,true,true,false,,false,false,false,false,false,false,false,false
+40.77821577362040000000,-73.97301116504680000000,14B-PM-1014-05,14B,PM,2018-10-14,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.76857323695440000000,-73.97900105651080000000,2C-PM-1013-09,02C,PM,2018-10-13,9,Adult,,Ground Plane,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79968974994730000000,-73.95825235033060000000,41A-PM-1007-05,41A,PM,2018-10-07,5,Adult,Gray,Ground Plane,,true,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77592292137620000000,-73.97066417707280000000,13E-AM-1017-12,13E,AM,2018-10-17,12,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77704296502880000000,-73.96934575444700000000,15E-AM-1013-02,15E,AM,2018-10-13,2,Adult,Gray,Above Ground,,true,false,true,false,false,,false,false,false,false,false,true,false,false
+40.76787021583820000000,-73.98085422862800000000,1B-AM-1012-17,01B,AM,2018-10-12,17,Adult,Gray,Ground Plane,,false,false,true,true,true,,false,false,false,false,false,false,true,false
+40.79209634466050000000,-73.95294131564610000000,36I-PM-1007-06,36I,PM,2018-10-07,6,Adult,Cinnamon,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77730706753930000000,-73.96821440393340000000,15F-AM-1007-08,15F,AM,2018-10-07,8,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77277429483320000000,-73.97433423035480000000,8D-AM-1007-08,08D,AM,2018-10-07,8,Adult,Gray,Above Ground,,false,false,false,false,false,communicating from tree,false,false,false,false,false,false,false,false
+40.79950086360570000000,-73.95849421255400000000,41A-AM-1013-01,41A,AM,2018-10-13,1,Adult,Gray,Ground Plane,,true,false,false,false,false,ran across a path,false,false,false,false,false,false,true,false
+40.77006770222050000000,-73.96979837256080000000,8I-PM-1013-09,08I,PM,2018-10-13,9,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78140685076070000000,-73.96971966198780000000,19B-AM-1019-01,19B,AM,2018-10-19,1,Juvenile,Gray,Ground Plane,,true,false,false,true,false,,false,false,false,false,false,false,true,true
+40.77807770160380000000,-73.97068515461840000000,15D-PM-1017-04,15D,PM,2018-10-17,4,Adult,Cinnamon,Above Ground,on fence,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77633480621340000000,-73.97047575554600000000,13E-AM-1017-02,13E,AM,2018-10-17,2,Adult,Gray,Ground Plane,,false,false,false,false,true,begging (came one yard away from me and stood there),false,false,false,false,false,true,false,false
+40.76820599079030000000,-73.97772590224410000000,3D-PM-1010-10,03D,PM,2018-10-10,10,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77855353708700000000,-73.97168818386710000000,15C-PM-1017-02,15C,PM,2018-10-17,2,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.79221550826790000000,-73.96332506365010000000,32A-PM-1013-09,32A,PM,2018-10-13,9,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77645953600540000000,-73.96741811468400000000,15G-AM-1008-05,15G,AM,2018-10-08,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77242772762630000000,-73.97716952720480000000,7B-AM-1008-03,07B,AM,2018-10-08,3,Adult,Gray,Above Ground,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.77730126427580000000,-73.96996751605160000000,15E-PM-1008-07,15E,PM,2018-10-08,7,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.76941256716790000000,-73.97589597982890000000,4D-PM-1008-01,04D,PM,2018-10-08,1,Adult,Cinnamon,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,true
+40.79546876482480000000,-73.96076084826560000000,36A-PM-1013-06,36A,PM,2018-10-13,6,,Gray,Ground Plane,EDGE OF WOODS,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77330439106490000000,-73.97532837836950000000,8C-PM-1013-02,08C,PM,2018-10-13,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,true,false
+40.77211277484270000000,-73.97853005099080000000,6A-AM-1006-07,06A,AM,2018-10-06,7,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,true,false,true,false
+40.79794098549770000000,-73.95400224454320000000,41E-AM-1007-01,41E,AM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79066865046570000000,-73.96087574240520000000,31D-AM-1014-06,31D,AM,2018-10-14,6,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.79559657558510000000,-73.96036201222050000000,36B-AM-1013-02,36B,AM,2018-10-13,2,,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.76955759506800000000,-73.98019021331480000000,3A-AM-1012-03,03A,AM,2018-10-12,3,Juvenile,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,true,false,false,true
+40.79260458233460000000,-73.95907766814800000000,34D-AM-1008-02,34D,AM,2018-10-08,2,Adult,Black,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79925986264830000000,-73.95765590990120000000,41B-AM-1010-09,41B,AM,2018-10-10,9,Adult,Gray,Above Ground,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.79565679343040000000,-73.95459505834200000000,39F-AM-1014-04,39F,AM,2018-10-14,4,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79583377806440000000,-73.96063446812520000000,37B-PM-1013-04,37B,PM,2018-10-13,4,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.79744683226920000000,-73.95801051748650000000,39C-PM-1006-03,39C,PM,2018-10-06,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.79395057914480000000,-73.95572635334890000000,37F-PM-1014-02,37F,PM,2018-10-14,2,Juvenile,Gray,Ground Plane,LAWN,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.78369290444590000000,-73.97002473509000000000,21A-AM-1019-08,21A,AM,2018-10-19,8,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79038236167820000000,-73.95451010418650000000,34I-PM-1010-03,34I,PM,2018-10-10,3,Adult,Gray,Ground Plane,in the playground.,true,false,false,false,true,with some nuts in the mouth,false,false,false,false,false,false,false,false
+40.77868889422140000000,-73.97118011225780000000,16C-AM-1014-02,16C,AM,2018-10-14,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,false,false
+40.78995993501450000000,-73.95956459625390000000,31E-PM-1006-03,31E,PM,2018-10-06,3,Adult,Gray,Ground Plane,under bushes,false,false,false,true,true,burying,false,false,false,false,false,false,true,false
+40.79445025014280000000,-73.95877126794420000000,36D-PM-1007-02,36D,PM,2018-10-07,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,true,false
+40.78459423498400000000,-73.96762060224770000000,23B-PM-1012-01,23B,PM,2018-10-12,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77625181641820000000,-73.97418464139770000000,12B-PM-1018-01,12B,PM,2018-10-18,1,Adult,Gray,Ground Plane,Climbing up rocks,false,false,true,false,true,climbing (up rocks),false,false,false,false,false,false,false,true
+40.77224579751760000000,-73.97039141268660000000,10G-PM-1017-01,10G,PM,2018-10-17,1,Adult,Gray,Ground Plane,,false,false,false,false,false,standing,false,false,false,false,false,false,true,false
+40.77716705500890000000,-73.97079005665190000000,14D-AM-1014-09,14D,AM,2018-10-14,9,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.76719901313130000000,-73.97508641544400000000,3F-AM-1006-01,03F,AM,2018-10-06,1,Adult,Gray,Ground Plane,just to right when enter sanctuary,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79211256577220000000,-73.95571723368150000000,35G-PM-1006-01,35G,PM,2018-10-06,1,Adult,Black,Ground Plane,,true,false,true,false,false,,false,false,false,false,true,false,false,true
+40.77066938351890000000,-73.96910310946880000000,9I-AM-1014-02,09I,AM,2018-10-14,2,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79456621856210000000,-73.96156028055540000000,35A-PM-1013-08,35A,PM,2018-10-13,8,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,false,true
+40.79761654345020000000,-73.95980847946250000000,39A-PM-1014-01,39A,PM,2018-10-14,1,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.77331386693100000000,-73.97469338525720000000,9C-PM-1006-05,09C,PM,2018-10-06,5,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,true
+40.77725668337990000000,-73.96451470117410000000,17I-AM-1014-04,17I,AM,2018-10-14,4,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,true,true,false
+40.77679165879150000000,-73.97140896474310000000,14D-AM-1014-12,14D,AM,2018-10-14,12,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,true,false,false
+40.77747925207380000000,-73.96423799426520000000,17I-PM-1017-01,17I,PM,2018-10-17,1,Juvenile,Cinnamon,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79789758555550000000,-73.95828502062050000000,39B-PM-1014-01,39B,PM,2018-10-14,1,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.80004600612720000000,-73.95826439540550000000,42A-AM-1019-01,42A,AM,2018-10-19,1,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.76684314852240000000,-73.97713354164030000000,2E-AM-1010-01,02E,AM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,true,false,true,false
+40.77633663091540000000,-73.96921902954420000000,14F-AM-1007-02,14F,AM,2018-10-07,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77245439014970000000,-73.97361659173990000000,8D-AM-1007-04,08D,AM,2018-10-07,4,Adult,Gray,Above Ground,,false,true,false,false,false,chasing squirrel #3,false,false,false,false,false,false,false,false
+40.78204399835670000000,-73.96422888730150000000,22F-AM-1007-06,22F,AM,2018-10-07,6,Adult,Cinnamon,Ground Plane,,false,false,true,true,false,,false,false,false,false,false,true,false,false
+40.79238430436850000000,-73.95284627794370000000,36I-AM-1017-04,36I,AM,2018-10-17,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79387868547350000000,-73.96097046509250000000,34B-AM-1013-03,34B,AM,2018-10-13,3,Adult,Cinnamon,Above Ground,,true,false,true,false,false,hopping,false,false,false,false,false,true,false,true
+40.79210842247110000000,-73.95345096278850000000,36I-AM-1017-07,36I,AM,2018-10-17,7,Adult,Gray,Ground Plane,,false,true,false,false,true,"chasing (#8),scratching",true,false,false,false,true,false,true,false
+40.79043324534560000000,-73.95771130260560000000,32G-PM-1013-02,32G,PM,2018-10-13,2,Juvenile,Black,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76894088312870000000,-73.98082476600480000000,2A-PM-1019-01,02A,PM,2018-10-19,1,Adult,Gray,Ground Plane,,false,false,false,false,false,runs from,false,false,false,true,false,false,false,true
+40.79376021215680000000,-73.95916671628010000000,35D-PM-1013-07,35D,PM,2018-10-13,7,Juvenile,Gray,Above Ground,tree,false,false,true,false,false,,false,false,false,false,true,false,true,false
+40.77139739823590000000,-73.97142435474330000000,8G-PM-1017-02,08G,PM,2018-10-17,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78893837254890000000,-73.96293834202740000000,29C-AM-1007-02,29C,AM,2018-10-07,2,Adult,Black,Above Ground,,true,false,true,false,false,,false,true,false,false,false,false,false,true
+40.79523395244160000000,-73.96009645858680000000,36B-PM-1013-02,36B,PM,2018-10-13,2,Adult,Gray,Ground Plane,,true,false,true,false,false,,false,false,false,false,true,true,false,true
+40.77984701429910000000,-73.97135191580270000000,17B-AM-1010-01,17B,AM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,true,false,true,false
+40.79352032678900000000,-73.95328730049400000000,37H-PM-1006-04,37H,PM,2018-10-06,4,,,Above Ground,tree,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79051263586260000000,-73.96261204173970000000,30C-AM-1014-02,30C,AM,2018-10-14,2,Adult,Gray,Ground Plane,on a rock,true,false,false,false,true,,false,false,false,false,true,false,true,false
+40.76898943442510000000,-73.97640160306660000000,4D-PM-1008-05,04D,PM,2018-10-08,5,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78051915906900000000,-73.96948563902300000000,18C-PM-1018-05,18C,PM,2018-10-18,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77524814720250000000,-73.97416219469170000000,11C-PM-1018-01,11C,PM,2018-10-18,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.76858454753130000000,-73.97920912001220000000,2B-PM-1013-06,02B,PM,2018-10-13,6,Adult,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,false,true,false,false
+40.77440327583230000000,-73.97622577012930000000,9A-AM-1013-08,09A,AM,2018-10-13,8,Adult,,,,false,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77065406989380000000,-73.97384817716730000000,7E-PM-1013-04,07E,PM,2018-10-13,4,Adult,Gray,Ground Plane,,true,false,false,true,true,,false,false,false,false,true,false,false,false
+40.79368099052650000000,-73.96294833745280000000,33A-PM-1018-03,33A,PM,2018-10-18,3,Adult,Gray,Above Ground,,true,false,true,false,false,,false,false,false,false,false,false,false,true
+40.77023350563370000000,-73.97187204036570000000,7G-PM-1018-04,07G,PM,2018-10-18,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79793027755270000000,-73.95837387833480000000,39B-PM-1014-02,39B,PM,2018-10-14,2,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79105355967560000000,-73.95515244223790000000,34H-PM-1006-01,34H,PM,2018-10-06,1,Adult,Black,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77240634591850000000,-73.97709485630060000000,7B-AM-1008-04,07B,AM,2018-10-08,4,Adult,Gray,Ground Plane,,false,true,false,false,false,,false,false,false,false,false,false,true,false
+40.79495688734530000000,-73.95919577939920000000,36C-PM-1013-01,36C,PM,2018-10-13,1,Adult,Gray,Ground Plane,Clearing near bike path (bikes active),false,true,false,true,true,,false,false,false,false,true,false,true,false
+40.77706393405820000000,-73.97008618590510000000,14E-PM-1017-04,14E,PM,2018-10-17,4,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.78747787202680000000,-73.96727895735370000000,26A-PM-1006-02,26A,PM,2018-10-06,2,Juvenile,Gray,Ground Plane,,false,false,false,false,false,not moving,false,false,false,false,false,false,false,false
+40.77235898270740000000,-73.97105474840290000000,9F-PM-1014-03,09F,PM,2018-10-14,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76682059769860000000,-73.97572154158550000000,2F-PM-1014-03,02F,PM,2018-10-14,3,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77159154151690000000,-73.97351208821060000000,8E-PM-1008-07,08E,PM,2018-10-08,7,Adult,Gray,Ground Plane,"5, 6, 7 all at same tree trunk base",false,true,true,false,false,,false,false,false,false,false,false,false,false
+40.79360039404130000000,-73.95656845779890000000,36F-PM-1012-02,36F,PM,2018-10-12,2,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77265868359850000000,-73.97378723355630000000,8D-PM-1007-01,08D,PM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.76975592319270000000,-73.97868058849960000000,4B-PM-1018-02,04B,PM,2018-10-18,2,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,true,false,false
+40.79743684912870000000,-73.95655337834990000000,40D-PM-1013-02,40D,PM,2018-10-13,2,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77828083616450000000,-73.96789372898370000000,16E-PM-1018-01,16E,PM,2018-10-18,1,Juvenile,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,true,false,true,false
+40.76668717428360000000,-73.97504638449840000000,2F-PM-1014-08,02F,PM,2018-10-14,8,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77696583028440000000,-73.96965178265580000000,14E-AM-1008-04,14E,AM,2018-10-08,4,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79282075749060000000,-73.96350284970150000000,32A-PM-1013-05,32A,PM,2018-10-13,5,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,true,false,false,false,true
+40.77695697319930000000,-73.96741775045730000000,15G-PM-1019-03,15G,PM,2018-10-19,3,Juvenile,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77233143186500000000,-73.96810426129380000000,11I-PM-1012-04,11I,PM,2018-10-12,4,Adult,Gray,Above Ground,,true,false,true,false,true,,false,false,false,false,false,false,false,false
+40.77602568360880000000,-73.96677556785110000000,15H-PM-1008-02,15H,PM,2018-10-08,2,Adult,Gray,Above Ground,oak tree,false,true,true,false,false,,false,false,false,false,false,false,false,true
+40.79098668513570000000,-73.96133516490260000000,31D-AM-1014-03,31D,AM,2018-10-14,3,,Gray,Ground Plane,Undergrowth,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.78156190533950000000,-73.96113683902330000000,22I-AM-1007-02,22I,AM,2018-10-07,2,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76855769975590000000,-73.97993111732590000000,2B-AM-1010-03,02B,AM,2018-10-10,3,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77863109468500000000,-73.96751982309180000000,17F-AM-1007-02,17F,AM,2018-10-07,2,Adult,Cinnamon,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77208330970650000000,-73.97868986562790000000,6A-AM-1006-08,06A,AM,2018-10-06,8,Adult,Gray,Ground Plane,,true,false,false,true,true,,false,false,false,false,true,false,true,false
+40.77074386817420000000,-73.97550559787640000000,6D-AM-1008-02,06D,AM,2018-10-08,2,Juvenile,Gray,Above Ground,,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.76943089592220000000,-73.97346875380640000000,6F-PM-1008-04,06F,PM,2018-10-08,4,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79417973203550000000,-73.95428280532560000000,37G-AM-1014-03,37G,AM,2018-10-14,3,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.76796907003990000000,-73.97927540372910000000,2C-AM-1010-08,02C,AM,2018-10-10,8,Adult,Gray,Above Ground,stay on side of trunk,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.79124723802470000000,-73.96265279087860000000,31B-AM-1017-03,31B,AM,2018-10-17,3,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77421315879830000000,-73.97022281317110000000,12F-PM-1007-12,12F,PM,2018-10-07,12,Adult,Gray,Above Ground,,false,false,false,false,true,going down tree,false,false,false,false,false,false,true,false
+40.78204749091920000000,-73.96910590700000000000,20B-PM-1013-08,20B,PM,2018-10-13,8,Adult,Gray,Ground Plane,,true,false,false,false,false,being chased by dog,false,false,false,false,false,false,false,true
+40.77037129313000000000,-73.97199415774060000000,7G-AM-1010-04,07G,AM,2018-10-10,4,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79212235565350000000,-73.95310133596250000000,36I-PM-1007-04,36I,PM,2018-10-07,4,Adult,Gray,Ground Plane,,false,true,false,false,true,,false,false,false,false,false,false,false,false
+40.77543102396490000000,-73.97572161243490000000,11A-PM-1013-05,11A,PM,2018-10-13,5,Adult,Cinnamon,Ground Plane,,true,false,false,false,true,digging,false,false,false,false,true,false,false,false
+40.78880227097210000000,-73.96641208260150000000,27A-AM-1008-01,27A,AM,2018-10-08,1,Adult,Gray,Above Ground,,false,true,false,false,false,,false,false,false,false,false,false,false,true
+40.79071588787290000000,-73.95806099213100000000,32F-AM-1012-06,32F,AM,2018-10-12,6,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.78419457505980000000,-73.95941205737190000000,26I-PM-1010-05,26I,PM,2018-10-10,5,Adult,Gray,Above Ground,tree,false,false,true,false,true,,false,false,false,false,false,false,true,false
+40.78235528710440000000,-73.96657054561970000000,21D-PM-1008-05,21D,PM,2018-10-08,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.76824777382440000000,-73.97963837152060000000,2B-AM-1010-07,02B,AM,2018-10-10,7,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77051987220280000000,-73.96972779982570000000,8H-AM-1017-01,08H,AM,2018-10-17,1,Adult,Gray,Ground Plane,,false,true,false,true,true,,false,false,false,false,false,false,true,false
+40.79387242785750000000,-73.95802471186900000000,36D-PM-1007-01,36D,PM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79750858728970000000,-73.95141113290590000000,42G-AM-1018-01,42G,AM,2018-10-18,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,false,true
+40.76742189547290000000,-73.97608017423370000000,3E-AM-1006-04,03E,AM,2018-10-06,4,Juvenile,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77413520806600000000,-73.97702350900230000000,9A-AM-1013-02,09A,AM,2018-10-13,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79581874558150000000,-73.95618876244710000000,38E-AM-1010-04,38E,AM,2018-10-10,4,Adult,Gray,Ground Plane,,true,false,true,false,false,,false,false,false,true,false,false,false,true
+40.77308537328760000000,-73.96765140566780000000,11H-AM-1010-01,11H,AM,2018-10-10,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,true,false,false
+40.77317539153610000000,-73.96810931000080000000,11H-PM-1013-01,11H,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,false,false,nut in mouth,false,false,false,false,false,false,true,false
+40.79051985023070000000,-73.96372797118530000000,30B-AM-1007-09,30B,AM,2018-10-07,9,Adult,Gray,Above Ground,,false,false,true,false,false,jumping b/w trees,false,false,false,false,false,false,false,false
+40.79924589802660000000,-73.95712336402320000000,41B-PM-1014-04,41B,PM,2018-10-14,4,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77167637992990000000,-73.96989590718260000000,9H-AM-1006-05,09H,AM,2018-10-06,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77266852848310000000,-73.97080024614150000000,10F-PM-1019-10,10F,PM,2018-10-19,10,Adult,Gray,Ground Plane,Arbor path & hill w/ bushes,true,false,false,true,true,,false,false,false,false,true,false,true,false
+40.78980629782400000000,-73.95789248826130000000,32G-AM-1010-02,32G,AM,2018-10-10,2,Adult,Gray,Above Ground,,false,false,true,true,false,,false,false,false,false,true,false,false,true
+40.79381163607670000000,-73.95916955458750000000,35D-PM-1013-08,35D,PM,2018-10-13,8,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76888395764870000000,-73.97631164258850000000,4D-PM-1008-03,04D,PM,2018-10-08,3,Adult,Cinnamon,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,true
+40.78347064405350000000,-73.95960069386770000000,25I-PM-1007-07,25I,PM,2018-10-07,7,Adult,Gray,Above Ground,playing very high in tree w/ #8,false,false,false,false,false,,false,false,false,false,false,false,false,false
+40.79611086403190000000,-73.96098856868340000000,37A-PM-1013-01,37A,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77843707193710000000,-73.96704295859900000000,17F-AM-1007-05,17F,AM,2018-10-07,5,Juvenile,Cinnamon,Ground Plane,,true,false,false,true,false,,false,false,false,true,false,false,true,false
+40.77372467795870000000,-73.97386112577160000000,10D-AM-1008-01,10D,AM,2018-10-08,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,true,false,false,false,true,false,false,true
+40.79177232287490000000,-73.96220300857940000000,32B-AM-1017-01,32B,AM,2018-10-17,1,Adult,Gray,Above Ground,ran up a tree,true,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77189080267580000000,-73.97859484138830000000,6A-PM-1012-01,06A,PM,2018-10-12,1,Adult,Cinnamon,Ground Plane,,false,false,true,false,true,,false,false,false,false,false,false,false,false
+40.77658587633130000000,-73.97185971567730000000,13C-PM-1019-04,13C,PM,2018-10-19,4,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.79261886055090000000,-73.96162045695480000000,33B-PM-1010-01,33B,PM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76639065733320000000,-73.97720537869650000000,1E-PM-1007-02,01E,PM,2018-10-07,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.78392167393570000000,-73.96661951189630000000,22C-PM-1006-10,22C,PM,2018-10-06,10,Adult,Gray,Above Ground,,false,false,true,false,false,,true,false,false,false,false,false,false,false
+40.78585316190220000000,-73.96847582450910000000,24A-PM-1007-02,24A,PM,2018-10-07,2,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77131960342650000000,-73.97063234587690000000,9G-PM-1007-03,09G,PM,2018-10-07,3,Adult,Cinnamon,Ground Plane,,true,false,true,false,false,,false,false,false,false,false,false,true,false
+40.77104099827010000000,-73.96994511963960000000,9H-PM-1018-02,09H,PM,2018-10-18,2,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76901478739860000000,-73.97614477914840000000,4D-PM-1008-02,04D,PM,2018-10-08,2,Adult,Cinnamon,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77658997247560000000,-73.97008790966440000000,14E-PM-1017-05,14E,PM,2018-10-17,5,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,true
+40.77630953937150000000,-73.97179203223060000000,13D-AM-1014-10,13D,AM,2018-10-14,10,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,false,false
+40.79617018747690000000,-73.95339239179730000000,40G-AM-1007-01,40G,AM,2018-10-07,1,Adult,Gray,Above Ground,large tree,false,false,true,true,false,,false,false,false,false,false,false,true,false
+40.77380538624890000000,-73.97730967185740000000,8A-AM-1013-06,08A,AM,2018-10-13,6,Juvenile,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77127093660930000000,-73.97388173881580000000,7E-AM-1006-01,07E,AM,2018-10-06,1,Adult,Gray,Ground Plane,under a tree,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.79311126745830000000,-73.95328383384160000000,37H-AM-1018-01,37H,AM,2018-10-18,1,Adult,Gray,Ground Plane,Right behind fence of the conservatory,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78068963684690000000,-73.96540938440490000000,20F-PM-1007-09,20F,PM,2018-10-07,9,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,true,false,false
+40.76514441884320000000,-73.97365437905820000000,1H-AM-1012-02,01H,AM,2018-10-12,2,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.78990017000410000000,-73.95681438712340000000,32G-AM-1010-01,32G,AM,2018-10-10,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77021066073290000000,-73.97015962687360000000,8H-PM-1014-09,08H,PM,2018-10-14,9,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.78981403635340000000,-73.96374158931820000000,29B-AM-1007-01,29B,AM,2018-10-07,1,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.78029717297840000000,-73.97179185488300000000,17B-PM-1012-01,17B,PM,2018-10-12,1,Adult,Gray,Above Ground,climbed a fence,true,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77570607310260000000,-73.96997636677690000000,13E-PM-1008-11,13E,PM,2018-10-08,11,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79251629262730000000,-73.95479592699550000000,36H-PM-1008-01,36H,PM,2018-10-08,1,Adult,Gray,Above Ground,,true,false,true,false,true,,true,true,false,false,false,false,true,false
+40.77967048989790000000,-73.96584435488220000000,19F-AM-1007-03,19F,AM,2018-10-07,3,Juvenile,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.79561507441020000000,-73.96065706156100000000,36A-PM-1013-08,36A,PM,2018-10-13,8,,Gray,Ground Plane,"""FIELD""",true,false,false,false,false,running from #7,false,false,false,false,false,false,false,true
+40.79547721705490000000,-73.95811737308570000000,37D-PM-1014-08,37D,PM,2018-10-14,8,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.79088311105610000000,-73.95865277218220000000,32F-PM-1008-08,32F,PM,2018-10-08,8,Adult,Gray,Ground Plane,,true,true,false,false,true,,false,false,false,false,false,false,true,false
+40.79128216971500000000,-73.96138622513320000000,32C-AM-1014-03,32C,AM,2018-10-14,3,Adult,Gray,Above Ground,,false,true,true,false,false,,false,false,false,false,false,false,false,false
+40.77606465541090000000,-73.97461330580770000000,11B-PM-1014-04,11B,PM,2018-10-14,4,,Gray,Ground Plane,,false,false,false,false,true,jumping,false,false,false,false,false,false,false,false
+40.78149444283270000000,-73.96239227739320000000,22H-PM-1007-04,22H,PM,2018-10-07,4,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.76602553932050000000,-73.97314571029030000000,2H-AM-1006-03,02H,AM,2018-10-06,3,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.76955849335380000000,-73.97154668503240000000,6H-PM-1020-03,06H,PM,2018-10-20,3,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,true
+40.79424270797330000000,-73.96210667188510000000,34A-AM-1012-03,34A,AM,2018-10-12,3,Adult,Gray,Ground Plane,,true,false,false,true,true,,false,false,false,false,false,false,false,true
+40.79061809694720000000,-73.96310454998110000000,30B-PM-1019-04,30B,PM,2018-10-19,4,Adult,Gray,Ground Plane,,true,false,true,true,true,,false,false,false,false,false,false,false,true
+40.78202009274650000000,-73.97083010709240000000,19A-PM-1013-01,19A,PM,2018-10-13,1,Adult,Gray,Ground Plane,,false,false,false,false,true,planting acorns,false,false,false,false,false,false,true,false
+40.79165666831580000000,-73.95831758180200000000,33E-AM-1014-12,33E,AM,2018-10-14,12,Adult,Gray,Above Ground,,false,false,false,false,false,sleeping,false,false,false,false,false,false,false,false
+40.77107655007990000000,-73.96839940647310000000,9I-AM-1014-06,09I,AM,2018-10-14,6,Adult,Cinnamon,Ground Plane,,false,false,true,false,true,,false,false,false,false,false,false,true,false
+40.77093338337830000000,-73.96897818438730000000,9I-PM-1010-04,09I,PM,2018-10-10,4,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77287506856990000000,-73.97735293684990000000,7B-AM-1008-12,07B,AM,2018-10-08,12,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.77140364877470000000,-73.97035767623000000000,9H-PM-1018-09,09H,PM,2018-10-18,9,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,false,false
+40.76689933981930000000,-73.97839259114900000000,1D-PM-1007-04,01D,PM,2018-10-07,4,Adult,Cinnamon,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.77291751434290000000,-73.97045910916770000000,10G-AM-1006-02,10G,AM,2018-10-06,2,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,true
+40.77604131822760000000,-73.97059770598620000000,13E-AM-1017-09,13E,AM,2018-10-17,9,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.76711622110320000000,-73.97537445393070000000,2F-PM-1014-12,02F,PM,2018-10-14,12,Adult,Gray,Ground Plane,,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.79888587711140000000,-73.95686908603100000000,41C-AM-1017-05,41C,AM,2018-10-17,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76759125881730000000,-73.97403811940880000000,4G-PM-1007-01,04G,PM,2018-10-07,1,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.76607044664200000000,-73.97646018828540000000,1F-AM-1010-05,01F,AM,2018-10-10,5,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,true,false
+40.77647266889080000000,-73.96766927725180000000,15G-AM-1008-03,15G,AM,2018-10-08,3,Adult,Gray,Ground Plane,,false,true,false,false,false,,true,false,false,false,false,false,false,false
+40.79595864757440000000,-73.96123494215470000000,36A-PM-1013-09,36A,PM,2018-10-13,9,,Gray,Ground Plane,THICK UNDERGROWTH,true,false,false,false,false,,false,false,false,false,true,false,false,true
+40.77735543115860000000,-73.97098177963690000000,14D-PM-1019-07,14D,PM,2018-10-19,7,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,true
+40.77661580012020000000,-73.96731601653570000000,15G-PM-1019-12,15G,PM,2018-10-19,12,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.77777661068070000000,-73.96764245997150000000,16F-AM-1008-01,16F,AM,2018-10-08,1,Adult,Cinnamon,Ground Plane,near fence,false,false,false,false,true,,false,false,false,false,true,true,false,false
+40.79084795279230000000,-73.96415520708030000000,30B-AM-1007-05,30B,AM,2018-10-07,5,Adult,Gray,Above Ground,,true,false,false,false,false,,false,false,false,false,false,false,false,false
+40.77824775175670000000,-73.96729502660180000000,17F-PM-1020-01,17F,PM,2018-10-20,1,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,true
+40.78355982628100000000,-73.96817222448010000000,22B-PM-1014-07,22B,PM,2018-10-14,7,Adult,Gray,Ground Plane,,false,false,false,false,false,,false,false,false,false,true,false,true,false
+40.76774119118540000000,-73.97840093869700000000,2C-PM-1013-03,02C,PM,2018-10-13,3,Adult,Gray,Ground Plane,,false,false,false,true,false,,false,false,false,false,false,false,false,false
+40.78173228327670000000,-73.96498278073410000000,21F-AM-1018-06,21F,AM,2018-10-18,6,Adult,Cinnamon,Ground Plane,,true,false,false,false,false,,false,false,false,false,true,false,false,true
+40.76790102472810000000,-73.97870401924730000000,2C-AM-1010-06,02C,AM,2018-10-10,6,Adult,Gray,Ground Plane,,false,false,false,false,false,stood still & watched me then jumped on a fence and ran away,false,false,false,false,false,false,true,true
+40.79436677356680000000,-73.96030310596140000000,35C-PM-1013-05,35C,PM,2018-10-13,5,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,false,false
+40.79241764258270000000,-73.96296155944090000000,32B-PM-1010-06,32B,PM,2018-10-10,6,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,false,true,false
+40.79016343491500000000,-73.96356890598410000000,30B-PM-1019-03,30B,PM,2018-10-19,3,Adult,Gray,Above Ground,,false,false,true,false,false,,false,false,false,false,false,false,false,false
+40.78254294415830000000,-73.97080835874710000000,19A-PM-1013-03,19A,PM,2018-10-13,3,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.77343632916300000000,-73.97724226646570000000,8A-AM-1013-02,08A,AM,2018-10-13,2,Juvenile,Gray,Ground Plane,playground,true,false,false,false,false,,false,false,false,false,false,false,false,true
+40.77485847987610000000,-73.97185533619820000000,11D-AM-1010-05,11D,AM,2018-10-10,5,Adult,Gray,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.78037541875810000000,-73.96988435073580000000,18C-PM-1018-02,18C,PM,2018-10-18,2,Juvenile,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,false,false,false,false
+40.77855836303230000000,-73.97031498294210000000,16D-AM-1007-01,16D,AM,2018-10-07,1,Adult,Gray,Above Ground,,false,false,true,true,false,,false,false,false,false,false,false,false,true
+40.76880486448710000000,-73.97908967752370000000,3B-AM-1010-10,03B,AM,2018-10-10,10,Adult,Cinnamon,Ground Plane,,false,false,false,true,true,,false,false,false,false,false,false,true,false
+40.79149691657570000000,-73.96005462944970000000,33D-AM-1017-03,33D,AM,2018-10-17,3,Adult,Gray,Ground Plane,,false,false,false,false,true,,false,false,false,false,false,true,true,false
+40.76856888506280000000,-73.98094829360600000000,2A-PM-1019-04,02A,PM,2018-10-19,4,Juvenile,Gray,Above Ground,in tree!,true,false,false,false,false,,false,false,false,false,false,false,true,false
+40.76927514379700000000,-73.98051370467780000000,2A-AM-1010-08,02A,AM,2018-10-10,8,Adult,Gray,Ground Plane,,true,false,false,false,true,,false,false,false,false,true,false,false,false
+40.79408238840860000000,-73.96613449378610000000,32A-34G-12B,32D,AM,2018-10-14,1,Juvenile,Gray,Ground Plane,nan,FALSE,FALSE,FALSE,FALSE,FALSE,gg,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
